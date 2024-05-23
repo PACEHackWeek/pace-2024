@@ -1,14 +1,13 @@
 repo_directory: html
 name: PACE Hackweek
 apply:
-  url: '#'
-  title: Application closed
+  url: ''
+  title: Applications closed
 banner:
-  description: An awesome learning event.
   start_date: 5 August
   end_date: 9 August
   year: 2024
-  location: Baltimore, MD
+  location: UMBC, Baltimore, MD
   links:
   - url: intro.html
     title: Event Jupyter Book
@@ -19,13 +18,8 @@ event_countdown: "2024-08-05T08:30:00-07:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
-  links:
-    - url: '#'
-      title: A sample link
-      new_window: True
-applicant_info: PACE Hackweek 2024 will take place in August 2024 (in-person). Applications are closed.
+    gain hands-on experience with collaboration and team science. PACE Hackweek 2024 
+    will take place in August 2024 (in-person). Applications are closed.
 team:
   !include team/team.yaml
 schedule:
