@@ -10,7 +10,7 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
-    hackweek: "pacehackweek"
+    hackweek: "PACE Hackweek"
     dates: "August 5 to 9, 2024"
     github_org_url: "https://github.com/gsfc-oel"
     book_repo: "Hackweek-2024-book"

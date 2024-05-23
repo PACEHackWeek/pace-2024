@@ -1,0 +1,18 @@
+- title: Jeremy Werdell
+  avatar: https://science.gsfc.nasa.gov/images/Photos/22097/20720217286__cape_bw_eric_sm.png
+  role: Research Scientist
+  organizations:
+    - name: NASA/GSFC/SED
+      url: https://science.gsfc.nasa.gov/sci/bio/jeremy.werdell
+  bio: Dr. Anna Windle is an early career scientist, working as a Post-Doctoral Fellow in support of the NASA Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite mission. 
+  expertise:
+    - bio-optical algorithms
+    - ocean color
+    - in situ biogeochemical oceanographic measurements
+  social:
+    - icon: github
+      link: https://github.com/houghtah
+  user_groups:
+    - Lead Hackweek Organizer
+    - Tutorial Lead
+ 

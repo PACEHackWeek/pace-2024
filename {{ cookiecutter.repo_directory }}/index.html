@@ -38,7 +38,7 @@
                 <div class="site-logo">
                     <a class="scrollto" href="#hero-block">
                         <span class="logo-icon-text">
-                            UW eScience Hackweek
+                            PACE Hackweek
                         </span>
                     </a>
                 </div>
@@ -147,6 +147,7 @@
         <div class="section-intro single-col-max mx-auto mb-3">
             {{ cookiecutter.about.description }}
         </div>
+        {%- if 'learn_more' in cookiecutter.about %}
         <div class="about-cta text-center mb-4">
             <a class="btn btn-secondary btn-lg"
                href="{{ cookiecutter.about.learn_more }}"
@@ -155,7 +156,8 @@
                 <i class="fas fa-external-link-alt"></i>
             </a>
         </div>
-
+        {%- endif %}
+        
         {%- if 'links' in cookiecutter.about %}
             <div class="hero-cta text-center mb-4">
                 <h4 class="mb-3 text-center">
@@ -189,6 +191,7 @@
         </div>
     </div>
 
+    {%- if 'applicant_info' in cookiecutter %}
     <div class="media-block theme-bg-primary py-5">
         <div class="container">
             <h4 class="text-white text-center mb-3">
@@ -200,6 +203,16 @@
             </div>
         </div>
     </div>
+    {% else %}
+    <div class="media-block theme-bg-primary py-5">
+        <div class="container">
+            <h4 class="text-white text-center mb-3">
+            </br>
+            </h4>
+        </div>
+    </div>
+    {%- endif %}
+            
 </section>
 <!--//about-section-->
 

@@ -1,6 +1,6 @@
 # Welcome to {{hackweek}}!
 
-![banner](logo.png)
+![banner](img/pace-banner-1.png)
 
 
 📖 On this JupyterBook website you'll find [tutorials](tutorials/index). All tutorials are Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience.

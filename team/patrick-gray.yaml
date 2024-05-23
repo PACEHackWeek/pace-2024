@@ -1,0 +1,19 @@
+- title: Patrick Gray
+  avatar: https://avatars.githubusercontent.com/u/2497349?v=4
+  role: Postdoctoral Fellow
+  organizations:
+    - name: University of Maine
+      url: https://umaine.edu/marine/people/patrick-gray/
+  bio: Patrick is working with Emmanuel Boss and Yoav Lehahn as a Zuckerman Postdoctoral Fellow
+       focused on marine biophysical interactions and ocean optics. Patrick’s research uses 
+       satellites, drones, and in situ optical techniques to understand the interplay of physics and ecology in the ocean. 
+  expertise:
+    - drones
+    - ocean optics
+    - marine biophysical interactions
+  social:
+    - icon: github
+      link: https://github.com/patrickcgray
+  user_groups:
+    - Tutorial Lead
+ 

@@ -1,0 +1,18 @@
+- title: Ian Carroll
+  avatar: https://ael.gsfc.nasa.gov/images/Photos/106126/108202185030_Ian%20Carroll.jpg
+  role: Research Scientist
+  organizations:
+    - name: UMBC
+    - name: NASA/GSFC
+      url: https://ael.gsfc.nasa.gov/sci/bio/ian.t.carroll
+  bio: Ian's bio
+  expertise:
+    - ocean color
+    - Python
+  social:
+    - icon: github
+      link: https://github.com/itcarroll
+  user_groups:
+    - Hackweek Organizer
+    - Tutorial Lead
+
