@@ -1,5 +1,5 @@
 repo_directory: html
-name: PACE Hackweek 2024
+name: PACE Hackweek
 apply:
   url: '#'
   title: Application closed
@@ -13,7 +13,7 @@ banner:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
-  image: https://geohackweek.github.io/assets/images/banner.jpg
+  image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-05T08:30:00-07:00"
 about:
