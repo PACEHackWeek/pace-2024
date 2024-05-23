@@ -17,3 +17,5 @@ https://github.com/gsfc-oel/Hackweek-2024-book/compare/2024.05.22..main
     - CONTRIBUTING.md
     - book/index.md
     - coookiecutter.yaml
+    - {{ cookiecutter.repo_directory }}/index.html -- template for the splash page
+
