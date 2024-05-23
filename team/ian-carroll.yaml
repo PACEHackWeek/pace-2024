@@ -1,0 +1,17 @@
+- title: Ian Carroll
+  avatar: img/ian.jpeg
+  role: Research Scientist
+  organizations:
+    - name: UMBC
+    - name: NASA/GSFC
+  bio: Ian's bio
+  expertise:
+    - ocean color
+    - Python
+  social:
+    - icon: github
+      link: https://github.com/itcarroll
+  user_groups:
+    - Hackweek Organizer
+    - Tutorial Lead
+
