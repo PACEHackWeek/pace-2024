@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: PACE Hackweek 2024
-author: gsfc-oel, NASA Goddard
+author: content NASA/GSFC, template eScience Institute/UW
 logo: logo.png
 only_build_toc_files: true
 
