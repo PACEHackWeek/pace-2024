@@ -1,0 +1,18 @@
+- title: Eli Holmes
+  avatar: https://avatars.githubusercontent.com/u/2545978?v=4
+  role: Research Scientist
+  organizations:
+    - name: NOAA
+    - name: UW School of Aquatic and Fisheries Sciences
+  bio: Eli is lead of the NOAA Open Science initiative. She is excited about the potential for open science and open collaboration to accelerate the incorporation of new ocean data products into fisheries research and management.
+  expertise:
+    - Git/GitHub
+    - Jupyter
+    - Python/R (can help translate)
+    - Cloud computing
+  social:
+    - icon: github
+      link: https://github.com/eeholmes
+  user_groups:
+    - Helper
+    - Tutorial Lead
