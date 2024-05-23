@@ -1,0 +1,51 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+root: intro
+format: jb-book
+parts:
+- caption: Details
+  chapters:
+    - file: application
+    - file: logistics
+    - title: Schedule
+      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
+    - title: Team
+      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
+    - file: mission
+    - file: CoC
+- caption: Preparation
+  chapters:
+    - file: preliminary/checklist_index
+      sections:
+      - file: preliminary/checklist/github
+      - file: preliminary/checklist/jupyterhub
+      - file: preliminary/checklist/git
+      - file: preliminary/checklist/earthdata
+    - file: preliminary/skills_refresher_index
+      sections:
+        - file: preliminary/skills-refresher/swc
+- caption: Tutorials
+  chapters:
+    - file: tutorials/index
+      sections:
+        - file: tutorials/example/tutorial-notebook
+- caption: Projects
+  chapters:
+    - file: projects/list_of_projects
+    - file: projects/index
+      sections:
+        - file: projects/project_roles
+        - file: projects/project_roadmap
+        - file: projects/project_initialization
+- caption: Reference
+  chapters:
+    - file: reference/glossary
+    - file: reference/bibliography
+    - file: reference/open_science
+    - file: reference/open_source_software
+    - file: reference/questions
+    - file: reference/social
+    - file: reference/supplemental_index
+      sections:
+        - file: reference/supplemental/python
+        - file: reference/supplemental/conda
