@@ -4,6 +4,7 @@ apply:
   url: ''
   title: Applications closed
 banner:
+  description: ''
   start_date: 5 August
   end_date: 9 August
   year: 2024
