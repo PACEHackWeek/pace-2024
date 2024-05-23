@@ -7,9 +7,9 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://noaa-nwfsc.github.io/Hackweek-2024-book/index.html?jump_to=schedule
+      url: https://ocean-satellite-tools.github.io/Hackweek-2024-book/index.html?jump_to=schedule
     - title: Team
-      url: https://noaa-nwfsc.github.io/Hackweek-2024-book/index.html?jump_to=team
+      url: https://ocean-satellite-tools.github.io/Hackweek-2024-book/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
