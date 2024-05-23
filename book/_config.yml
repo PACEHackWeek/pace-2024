@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Hackweek Template
-author: eScience Institute, University of Washington
+title: PACE Hackweek 2024
+author: gsfc-oel, NASA Goddard
 logo: logo.png
 only_build_toc_files: true
 
@@ -10,14 +10,14 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
-    hackweek: "uwhackweek"
-    dates: "October ? to ?, 2021"
-    github_org_url: "https://github.com/uwhackweek"
-    book_repo: "jupyterbook-template"
-    website_url: "https://book-template.hackweek.io"
-    jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"
+    hackweek: "pacehackweek"
+    dates: "August 5 to 9, 2024"
+    github_org_url: "https://github.com/gsfc-oel"
+    book_repo: "Hackweek-2024-book"
+    website_url: "https://gsfc-oel.github.io/Hackweek-2024-book"
+    jupyterhub_url: "https://hub.cryointhecloud.com/"
     slack_workspace_url: "https://INSERT_SLACK_URL"
-    contact_email: "INSERT_CONTACT_EMAIL@UW.COM"
+    contact_email: "anna.windledipaola@nasa.gov"
     dataset: "INSERT_DATA_SET_NAME"
     anon_reporting_url: "https://INSERT_FORM_LINK"
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
@@ -53,7 +53,7 @@ launch_buttons:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/uwhackweek/jupyterbook-template # Online location of your book
+  url: https://github.com/gsfc-oel/Hackweek-2024-book # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 

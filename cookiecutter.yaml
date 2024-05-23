@@ -1,21 +1,21 @@
 repo_directory: html
-name: UW Hackweek
+name: PACE Hackweek 2024
 apply:
   url: '#'
-  title: Application coming soon
+  title: Application closed
 banner:
   description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2022
-  location: Seattle, WA
+  start_date: 5 August
+  end_date: 9 August
+  year: 2024
+  location: Baltimore, MD
   links:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-07T08:30:00-07:00"
+event_countdown: "2024-08-05T08:30:00-07:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
@@ -25,8 +25,7 @@ about:
     - url: '#'
       title: A sample link
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
+applicant_info: PACE Hackweek 2024 will take place in August 2024 (in-person). Applications are closed.
 team:
   !include team/team.yaml
 schedule:
@@ -34,13 +33,16 @@ schedule:
 sponsors:
   description: ''
   organizations:
-  - name: eScience Institute
-    website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: NASA/GSFC/PACE
+    website: https://pace.oceansciences.org/home.htm
+    logo_url: https://pace.oceansciences.org/images/pace-logo.png
+  - name: UMBC
+    website: https://umbc.edu/
+    logo_url: https://umbc.edu/wp-content/uploads/2022/07/UMBC-primary-logo-RGB-2K.png
 footer:
   social:
   - icon: github
-    link: https://github.com/uwhackweek/
+    link: https://github.com/gsfc-oel/
 _copy_without_render:
 - assets
 _extensions:
