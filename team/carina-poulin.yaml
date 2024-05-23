@@ -1,0 +1,17 @@
+- title: Carina Poulin
+  avatar: https://science.gsfc.nasa.gov/images/Photos/114823/142202310823_Screen%20Shot%202022-02-25%20at%2012.28.17%20PM.png
+  role: Scientific Designer
+  organizations:
+    - name: NASA/GSFC/OEL
+      url: https://science.gsfc.nasa.gov/sci/bio/carina.poulin
+  bio: ' '
+  expertise:
+    - bioluminescence
+    - phytoplankton
+    - remote sensing
+  social:
+    - icon: github
+      link: https://github.com/cpoulinn
+  user_groups:
+    - Tutorial Lead
+ 

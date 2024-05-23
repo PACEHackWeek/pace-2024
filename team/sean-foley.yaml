@@ -1,0 +1,16 @@
+- title: Sean Foley
+  avatar: https://avatars.githubusercontent.com/u/12816599?v=4
+  role: Data Scientist
+  organizations:
+    - name: NASA/GSFC/SED
+      url: https://science.gsfc.nasa.gov/sci/bio/sean.r.foley
+  bio: Sean Foley works on the application of machine learning and computer vision to challenging problems in remote sensing. More specifically, he is interested in how computer vision can better our understanding of 3D cloud structure.
+  expertise:
+    - machine learning
+    - computer vision
+  social:
+    - icon: github
+      link: https://github.com/seanremy
+  user_groups:
+    - Tutorial Lead
+ 

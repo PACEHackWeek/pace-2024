@@ -1,0 +1,15 @@
+- title: Guoqing Wang
+  avatar: https://science.gsfc.nasa.gov/images/Photos/99019/1402021205234_Profile_photo2.png
+  role: Research Scientist
+  organizations:
+    - name: NASA/GSFC
+      url: https://science.gsfc.nasa.gov/sci/bio/guoqing.wang
+  bio: Dr. Guoqing Wang is a Ocean Biology Distributed Active Archive Center (DAAC) scientist in 
+       the Ocean Biology Processing Group at NASA Goddard Space Flight Center.
+  expertise:
+    - ocean color
+  social:
+    - icon: github
+      link: https://github.com/guoqingoceanrs
+  user_groups:
+    - Tutorial Lead

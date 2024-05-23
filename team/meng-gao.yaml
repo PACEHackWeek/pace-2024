@@ -1,0 +1,19 @@
+- title: Meng Gao
+  avatar: https://cisto-news.gsfc.nasa.gov/images/Photos/117019/258202364719_headshot_2023.jpeg
+  role: Data Scientist
+  organizations:
+    - name: NASA/GSFC/OEL
+      url: https://science.gsfc.nasa.gov/sci/bio/Drmeng.gao
+  bio: Dr. Meng Gao is a research scientist in the Ocean Ecology Laboratory (OEL) at NASA Goddard Space Flight Center (GSFC). 
+       His research interests and expertise include light scattering theory, radiative transfer simulation, optimization algorithm, and deep learning. 
+  expertise:
+    - light scattering theory
+    - radiative transfer simulation
+    - optimization algorithms
+    - deep learning
+  social:
+    - icon: github
+      link: https://github.com/kiwiriver
+  user_groups:
+    - Tutorial Lead
+ 

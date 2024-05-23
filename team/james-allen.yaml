@@ -1,0 +1,20 @@
+- title: James Allen
+  avatar: https://avatars.githubusercontent.com/u/43555148?v=4
+  role: Assistant Research Scientist
+  organizations:
+    - name: NASA/GSFC/OEL
+      url: https://science.gsfc.nasa.gov/earth/oceanecology/bio/james.g.allen-1
+    - name: UMBC/GESTAR
+      url: https://gestar2.umbc.edu/
+  bio: Dr. James G. Allen, assistant research scientist with the Goddard Earth Sciences Technology and Research (GESTAR) II Program at NASA’s Goddard Space Flight Center in Greenbelt, Maryland.
+  expertise:
+    - ocean color
+    - Bayesian analysis
+    - harp2 sensor
+    - SPEXone sensor
+  social:
+    - icon: github
+      link: https://github.com/jgallen829
+  user_groups:
+     - Tutorial Lead
+ 
