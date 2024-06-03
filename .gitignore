@@ -1,4 +1,5 @@
 .DS_Store
+*.Rproj
 
 # Jupyter Book things
 .bash_history
@@ -144,3 +145,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
