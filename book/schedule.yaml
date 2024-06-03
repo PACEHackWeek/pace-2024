@@ -1,7 +1,7 @@
 timezone: UTC -4 (Eastern Daylight Time)
 tabs:
 - title: Day 1
-  date: Monday 05 August
+  date: Sunday 04 August
   contents:
   - title: Introductory Session
     description: Welcome and getting to know each other.
@@ -33,7 +33,7 @@ tabs:
     description: null
     time: 13:00 - 17:00
 - title: Day 2
-  date: Tuesday 06 August
+  date: Monday 05 August
   contents:
   - title: Cloud data access and data formats
     description: Approaches for accessing and subsetting PACE data in a cloud
@@ -61,7 +61,7 @@ tabs:
     description: null
     time: 13:00 - 17:00
 - title: Day 3
-  date: Wednesday 07 August
+  date: Tuesday 06 August
   contents:
   - title: 'Applications: oci'
     description: Applications of PACE data to ocean color.
@@ -91,7 +91,7 @@ tabs:
     description: null
     time: 13:00 - 17:00
 - title: Day 4
-  date: Thursday 8 August
+  date: Wednesday 07 August
   contents:
   - title: 'Applications: xyz'
     description: Applications of PACE data to xyz.
@@ -121,7 +121,7 @@ tabs:
     description: null
     time: 13:00 - 17:00
 - title: Day 5
-  date: Friday 9 August
+  date: Thursday 08 August
   contents:
   - title: Project Work
     description: Project
