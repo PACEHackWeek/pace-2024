@@ -8,59 +8,79 @@ tabs:
     time: 7:30 - 8:30
   - title: Introductory Session
     description: Welcome and getting to know each other.
-    time: 8:30 - 9:30
+    time: 8:30 - 9:00
     leads:
     - FirstName LastName
+  - title: SCIENCE LECTURE
+    description: PACE Mission Overview: Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
+    time: 9:00 - 9:45
+    leads:
+    - Jeremy Werdell  
   - title: CryoCloud JupyterHub
     description: Getting connected to our shared computational resources.
-    time: 9:00 - 10:00
+    time: 10:00 - 10:50
     leads:
     - Tasha Snow
+  - title: Accessing PACE oci data
+    description: Getting oci data with the `earthaccess` package, Options for partial loading from s3, downloading subsets, or whole granules.
+    time: 11:00 - 11:50
+    leads:
+    - Guiqing Wang
   - title: BREAK
     description: null
     time: 10:00 - 10:30
-  - title: Best Practices for Collaborative Development
-    description: null
-    time: 10:30 - 11:00
-    leads:
-    - FirstName LastName
-  - title: PACE Mission Overview and Data
-    description: Summary of PACE datasets, algorithms and science applications.
-    time: 11:00 - 12:00
-    leads:
-    - FirstName LastName
   - title: LUNCH
     description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
+  - title: Best Practices for Collaborative Development
     description: null
-    time: 13:00 - 17:00
+    time: 13:00 - 13:20
+    leads:
+    - Kelsey Bisson
+  - title: PROJECT DISCUSSION
+    description: null
+    time: 13:20 - 14:45
+  - title: BREAK
+    description: null
+    time: 14:45 - 15:00
+  - title: PROJECT WORK
+    description: null
+    time: 15:00 - 17:00
+  - title: DINNER
+    description: Dinner @ True Grits
+    time: 17:00 - 18:00
+  - title: EVENING ACTIVITY
+    description: Bob Ross Paint Night 
+    time: 18:00 - 
+    leads:
+    - Carina Poulin
 - title: Day 2
   date: Monday 05 August
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: Cloud data access and data formats
-    description: Approaches for accessing and subsetting PACE data in a cloud
-      environment.
-    time: 8:30 - 10:00
+  - title: MORNING CHECKIN
+    description: Announcements, Group checkins
+    time: 7:30 - 8:30
+  - title: SCIENCE LECTURE
+    description: OCI Oceans: ocean color, inversions, hyperspectral, baked in uncertainties
+    time: 9:00 - 9:45
     leads:
-    - FirstName LastName
+    - Amir
+    - Ivona
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: Open source development / Object Oriented Programming
-    description: Best practices for collaborative coding and object oriented programming.
-    time: 10:30 - 11:30
-    leads:
-    - FirstName LastName
+    time: 9:45 - 10:00
   - title: Group STAND-UP
     description: Demonstration of a daily stand-up as part of your project collaboration.
-    time: 11:30 - 12:00
+    time: 10:00 - 10:20
     leads:
     - Eli Holmes
-  - title: LUNCH
+  - title: OPEN PROJECT WORK
+    description: null
+    time: 10:20 - 12:00
+ - title: LUNCH
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: OPEN PROJECT WORK
