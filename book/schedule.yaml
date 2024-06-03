@@ -5,7 +5,7 @@ tabs:
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
-    time: 7:30 - 9:30
+    time: 7:30 - 8:30
   - title: Introductory Session
     description: Welcome and getting to know each other.
     time: 8:30 - 9:30
@@ -40,7 +40,7 @@ tabs:
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
-    time: 7:30 - 9:30
+    time: 7:30 - 8:30
   - title: Cloud data access and data formats
     description: Approaches for accessing and subsetting PACE data in a cloud
       environment.
@@ -71,7 +71,7 @@ tabs:
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
-    time: 7:30 - 9:30
+    time: 7:30 - 8:30
   - title: 'Applications: oci'
     description: Applications of PACE data to ocean color.
     time: 8:30 - 9:15
@@ -104,7 +104,7 @@ tabs:
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
-    time: 7:30 - 9:30
+    time: 7:30 - 8:30
   - title: 'Applications: xyz'
     description: Applications of PACE data to xyz.
     time: 8:30 - 9:15
@@ -137,7 +137,7 @@ tabs:
   contents:
   - title: Breakfast
     description: Breakfast @ True Grits
-    time: 7:30 - 9:30
+    time: 7:30 - 8:30
   - title: Project Work
     description: Project
     time: 8:30 - 9:30
