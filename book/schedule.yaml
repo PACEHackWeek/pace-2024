@@ -12,7 +12,7 @@ tabs:
     leads:
     - FirstName LastName
   - title: SCIENCE LECTURE
-    description: PACE Mission Overview: Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
+    description: PACE Mission Overview&colon; Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
     time: 9:00 - 9:45
     leads:
     - Jeremy Werdell  
@@ -64,7 +64,7 @@ tabs:
     description: Announcements, Group checkins
     time: 7:30 - 8:30
   - title: SCIENCE LECTURE
-    description: OCI Oceans: ocean color, inversions, hyperspectral, baked in uncertainties
+    description: OCI Oceans&colon; ocean color, inversions, hyperspectral, baked in uncertainties
     time: 9:00 - 9:45
     leads:
     - Amir
