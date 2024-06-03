@@ -10,7 +10,7 @@ tabs:
     description: Welcome and getting to know each other.
     time: 8:30 - 9:00
     leads:
-    - FirstName LastName
+    - Anna Windle
   - title: SCIENCE LECTURE
     description: PACE Mission Overview&colon; Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
     time: 9:00 - 9:45
@@ -25,7 +25,7 @@ tabs:
     description: Getting oci data with the `earthaccess` package, Options for partial loading from s3, downloading subsets, or whole granules.
     time: 11:00 - 11:50
     leads:
-    - Guiqing Wang
+    - Guoqing Wang
   - title: BREAK
     description: null
     time: 10:00 - 10:30
