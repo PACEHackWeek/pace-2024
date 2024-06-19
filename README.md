@@ -8,4 +8,4 @@ This the JupyterBook content for the PACE Hackweek 2024.
 
 This is a clone of the eScience template repository designed to streamline creating two linked websites for a [UW eScience Hackweek](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html).
 
-Please see the [eScience repository template](https://github.com/uwhackweek/jupyterbook-template) for usage, contributors and citation information.
+Please see the [eScience repository template](https://github.com/uwhackweek/jupyterbook-template) for usage, contributors and citation information. See the `docs` directory in that repo for instructions regarding how to set up the GitHub repo and how to link to Netlify for previews.
