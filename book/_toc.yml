@@ -7,9 +7,9 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://ocean-satellite-tools.github.io/Hackweek-2024-book/index.html?jump_to=schedule
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=schedule
     - title: Team
-      url: https://ocean-satellite-tools.github.io/Hackweek-2024-book/index.html?jump_to=team
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
@@ -21,6 +21,7 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/example/tutorial-notebook
+        - file: tutorials/oci/oci_data_access
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
