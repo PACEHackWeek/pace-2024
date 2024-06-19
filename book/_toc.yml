@@ -21,6 +21,7 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/example/tutorial-notebook
+        - file: tutorials/oci/oci_data_access
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
