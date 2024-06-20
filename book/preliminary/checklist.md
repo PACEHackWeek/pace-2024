@@ -41,7 +41,7 @@ the week.
 
 ### EarthData Login
 
-We'll have you download some data from NSIDC for your tutorials and projects.
+You will be downloading PACE data from NASA Earthdata for your tutorials and projects.
 Visit the [Earthdata](https://www.earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/earthdata-login)
 help page and learn how to register, access, and login if you don't already have
 an account!
