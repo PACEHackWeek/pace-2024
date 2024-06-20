@@ -16,7 +16,7 @@ banner:
     new_window: false
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-05T08:30:00-07:00"
+event_countdown: "2024-08-04T08:30:00-07:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
@@ -38,7 +38,7 @@ sponsors:
 footer:
   social:
   - icon: github
-    link: https://github.com/gsfc-oel/
+    link: https://github.com/PACEHackWeek/
 _copy_without_render:
 - assets
 _extensions:
