@@ -15,3 +15,5 @@
 * GitHub organization: {{ github_org_url}}
 * Projects Spreadsheet: {{ project_spreadsheet_url }}
 ```
+
+Looking forward to seeing you!
