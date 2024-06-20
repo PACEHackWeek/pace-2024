@@ -9,10 +9,16 @@ This the JupyterBook content for the PACE Hackweek 2024.
 ### New or updated tutorials
 
 1. Fork or clone the pace-2024, pace-2024-tutorials, oceandata-notebooks repos.
-1. When tutorials are ready to be moved into the Jupyter Book, run the code in `copy_tutorials.ipynb`.
-2. Create a PR and label the PR `preview`. A link to click to create the PR will be shown.
-3. After you create the PR (with label `preview`, a link to a netlify preview will appear. Check to ensure that it looks good and make any necessary changes.
-5. Once the PR is reviewed by another team member, it can be merged.
+1. When tutorials are ready to be moved into the Jupyter Book, source the function in `copy_tutorials.py` and then use it to create the unrendered (tutorial repo) and rendered notebooks (book).
+2. This will create a branch for you to work on.
+3. Switch to that branch and edit `book/_toc.yml` and `book/tutorials/index.md`. Commit those changes to the branch.
+4. If there are any images that were created and that you need in the tutorial, then you will need to commit those and push.
+5. Create a PR and **label the PR `preview`**. A link to click to create the PR will be shown.
+6. After you create the PR (with label `preview`, a link to a netlify preview will appear. Check to ensure that it looks good.
+7. Troubleshooting
+    * Do you need to change the original tutorial and it is in the gfdl org? Go there and make changes. Then rerun the function in `copy_tutorials.py`.
+    * Do you want to add files specific to the hackweek? You can add those, to the pace-2024 repo.
+9. Once the PR looks good in netlify, it can be merged.
 
 ### Updating other parts of the Jupyter Book
 
