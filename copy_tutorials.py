@@ -14,7 +14,7 @@
 # https://jupytext.readthedocs.io/en/latest/using-cli.html#advanced-usage-error-tolerance
 import os
 import time
-def get_tutorial(fil, dir, push=True):
+def get_tutorial(fil, dir, pushbook=False, pushtut=True):
   src_dir="~/oceandata-notebooks/src/"
   tut_dir="~/pace-2024-tutorials/"
   book_repo="~/pace-2024/"
@@ -26,10 +26,10 @@ def get_tutorial(fil, dir, push=True):
   bfil=book_repo+book_dir+dir+"/"+fil+".ipynb"
   # create ipynb without executed cells
   os.system("jupytext --to ipynb -o "+tfil+" "+ifil)
-  if push:
+  if pushtut:
     os.system("cd "+tut_dir+" && "+"git add "+dir+"/"+fil+".ipynb && git commit -m 'update tutorial' && git push")
   # create the book tutorial with rendering
-  if push:
+  if pushbook:
     os.system("cd "+book_dir)
     newbranch="tutorial-patch-"+str(round(time.time()))
     curbranch=os.popen("git rev-parse --abbrev-ref HEAD").read().strip()
@@ -37,13 +37,15 @@ def get_tutorial(fil, dir, push=True):
   os.system("cp --force "+tfil+" "+bfil)
   # create ipynb without executed cells
   os.system("jupyter nbconvert --to ipynb --inplace --execute --allow-errors "+bfil)
-  if push:
+  if pushbook:
     bfil=book_dir+dir+"/"+fil+".ipynb"
     os.system("git add "+bfil+" && git commit -m 'add tutorial' && git push -u origin "+newbranch+" && git checkout "+curbranch)
 
+# Create a branch, switch to that, run get_tutorial(), then edit _toc.yml and index.md, push, and create PR with label preview
+
 # oci
-get_tutorial("oci_data_access", "oci", push=True)
-get_tutorial("oci_file_structure", "oci", push=True)
+get_tutorial("oci_data_access", "oci")
+get_tutorial("oci_file_structure", "oci")
 
 #harp
-get_tutorial("harp2_basic_visualizations", "harp2", push=True)
+get_tutorial("harp2_basic_visualizations", "harp2")
