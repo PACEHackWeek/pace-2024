@@ -24,6 +24,9 @@ parts:
           sections:
             - file: tutorials/oci/oci_data_access
             - file: tutorials/oci/oci_file_structure
+        - file: tutorials/harp2/Introduction
+          sections:
+            - file: tutorials/harp2/harp2_basic_visualizations
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
