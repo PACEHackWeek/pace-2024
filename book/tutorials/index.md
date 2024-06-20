@@ -10,4 +10,5 @@ time you log in.
 
 | Tutorial | Topics | Datasets |  Recording Link |
 | -  | - | - |  - |
-| [Example Notebook](./example/tutorial-notebook.ipynb) | Jupyter Book formatting, ipyleaflet | n/a |  Not recorded |
+| [oci_data_access](./oci/oci_data_access.ipynb) | Accessing OCI data | n/a |  Not recorded |
+| [oci_file_structure](./oci/oci_file_structure.ipynb) | Overview of the netCDF structure | n/a |  Not recorded |
