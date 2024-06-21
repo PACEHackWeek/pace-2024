@@ -311,7 +311,7 @@
                         </div>
                         {%- if 'leads' in content and content['leads']|length > 0 %}
                         <div class="profile">
-                            <h6 class="mb-1 mt-2"> Tutorial Lead(s)</h6>
+                            <h6 class="mb-1 mt-2"> Presenter(s)</h6>
                             {%- for lead in content['leads'] %}
                             {%- set person = cookiecutter.team['people']|selectattr('title', '==', lead)|list %}
                             {%- if person|length > 0 %}
