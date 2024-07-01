@@ -34,7 +34,10 @@ sponsors:
     logo_url: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/2015/06/nasa.png
   - name: OCB
     website: https://www.us-ocb.org/
-    logo_url: https://pacehackweek.github.io/pace-2024/_images/ocb_logo.png
+    logo_url: assets/images/ocb_logo.png
+  - name: NSF
+    website: https://nsf.gov/
+    logo_url: assets/images/nsf.png
 footer:
   social:
   - icon: github
