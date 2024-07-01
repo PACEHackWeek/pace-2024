@@ -87,12 +87,12 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: CODING TUTORIAL 1
-    description: Manipulation and visualization of multidimensional array data: xarray, matplotlib, holoviews, seaborn.
+    description: Manipulation and visualization of multidimensional array data&colon; xarray, matplotlib, holoviews, seaborn.
     time: 13:00 - 13:45
     leads:
     - Meng
   - title: CODING TUTORIAL 2
-    description: External data sources for matchups: xvec, pandas, geopandas, KDTree
+    description: External data sources for matchups&colon; xvec, pandas, geopandas, KDTree
     time: 14:00 - 14:45
     leads:
     - Meng
@@ -130,7 +130,7 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: CODING TUTORIAL 1
-    description: Collaboration via Git and GitHub: three key skills
+    description: Collaboration via Git and GitHub&colon; three key skills
     time: 13:00 - 13:45
     leads:
     - Eli Holmes
