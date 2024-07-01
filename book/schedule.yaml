@@ -90,12 +90,12 @@ tabs:
     description: Manipulation and visualization of multidimensional array data: xarray, matplotlib, holoviews, seaborn.
     time: 13:00 - 13:45
     leads:
-      - Meng
+    - Meng
   - title: CODING TUTORIAL 2
     description: External data sources for matchups: xvec, pandas, geopandas, KDTree
     time: 14:00 - 14:45
     leads:
-      - Meng
+    - Meng
   - title: BREAK
     description: null
     time: 14:45 - 15:00
@@ -118,8 +118,8 @@ tabs:
     description: OCI Atmospheres
     time: 9:00 - 9:45
     leads:
-      - Andy
-      - Lorraine
+    - Andy
+    - Lorraine
   - title: BREAK
     description: null
     time: 9:45 - 10:00
@@ -133,12 +133,12 @@ tabs:
     description: Collaboration via Git and GitHub: three key skills
     time: 13:00 - 13:45
     leads:
-      - Eli Holmes
+    - Eli Holmes
   - title: CODING TUTORIAL 2
     description: OCSSW tools
     time: 14:00 - 14:45
     leads:
-      - Carina
+    - Carina
   - title: BREAK
     description: null
     time: 14:45 - 15:00
