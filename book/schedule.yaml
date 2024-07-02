@@ -6,53 +6,50 @@ tabs:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: Introductory Session
-    description: Welcome and getting to know each other.
+  - title: Warm-up
+    description: Welcome, introductions, housekeeping
     time: 8:30 - 9:00
     leads:
     - Anna Windle
-  - title: SCIENCE LECTURE
+  - title: Science Lecture
     description: PACE Mission Overview&colon; Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
     time: 9:00 - 9:45
     leads:
     - Jeremy Werdell  
-  - title: BREAK
+  - title: Break
     description: null
     time: 9:45 - 10:00
-  - title: CryoCloud JupyterHub
-    description: Getting connected to our shared computational resources.
+  - title: Coding Tutorial 1
+    description: Overview of CryoCloud JupyterHub 
     time: 10:00 - 10:50
     leads:
     - Tasha Snow
-  - title: CODING TUTORIAL
-    description: Getting oci data with the `earthaccess` package, Options for partial loading from s3, downloading subsets, or whole granules.
+  - title: Coding Tutorial 2
+    description: Cloud orientation and `earthaccess` Python library
     time: 11:00 - 11:50
     leads:
     - Guoqing Wang
-  - title: BREAK
-    description: null
-    time: 10:00 - 10:30
-  - title: LUNCH
+  - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: Best Practices for Collaborative Development
-    description: null
+  - title: Lecture
+    description: Best Practices for Collaborative Development
     time: 13:00 - 13:20
     leads:
     - Kelsey Bisson
-  - title: PROJECT IDEA DISCUSSION
+  - title: Group Project Work
     description: null
     time: 13:20 - 14:45
-  - title: BREAK
+  - title: Break
     description: null
     time: 14:45 - 15:00
-  - title: PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: DINNER
+  - title: Dinner
     description: Dinner @ True Grits
     time: 17:00 - 18:00
-  - title: EVENING ACTIVITY
+  - title: Evening Activity 
     description: Bob Ross Paint Night 
     time: 18:00 - 
     leads:
@@ -63,50 +60,45 @@ tabs:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: MORNING CHECKIN
+  - title: Warm-up
     description: Announcements, Group checkins
     time: 8:30 - 9:00
-  - title: SCIENCE LECTURE
+  - title: Science Lecture
     description: OCI Oceans&colon; ocean color, inversions, hyperspectral, baked in uncertainties
     time: 9:00 - 9:45
     leads:
-    - Amir
-    - Ivona
-  - title: BREAK
+    - Amir Ibrahim
+    - Ivona Cetinic 
+  - title: Break
     description: null
     time: 9:45 - 10:00
-  - title: Group STAND-UP
-    description: Demonstration of a daily stand-up as part of your project collaboration.
-    time: 10:00 - 10:20
-    leads:
-    - Eli Holmes
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 10:20 - 12:00
+  - title: Group Project Work
+    description: Null
+    time: 10:00 - 12:00
   - title: LUNCH
     description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: CODING TUTORIAL 1
+  - title: Coding Tutorial 1
     description: Manipulation and visualization of multidimensional array data&colon; xarray, matplotlib, holoviews, seaborn.
     time: 13:00 - 13:45
     leads:
-    - Meng
-  - title: CODING TUTORIAL 2
+    - Carina Poulin
+  - title: Coding Tutorial 2
     description: External data sources for matchups&colon; xvec, pandas, geopandas, KDTree
     time: 14:00 - 14:45
     leads:
-    - Meng
-  - title: BREAK
+    - Anna Windle 
+  - title: Break
     description: null
     time: 14:45 - 15:00
-  - title: OPEN PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: DINNER
+  - title: Dinner
     description: Dinner @ True Grits
     time: 17:00 - 18:00
-  - title: EVENING ACTIVITY
-    description: Fireside chat with program managers  
+  - title: Evening Activity
+    description: Fireside chat with NASA program managers  
     time: 18:00 - 
 - title: Day 3
   date: Tuesday 06 August
@@ -114,42 +106,42 @@ tabs:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: MORNING CHECKIN
+  - title: Warm-up
     description: Announcements, Group checkins
     time: 8:30 - 9:00
-  - title: SCIENCE LECTURE
+  - title: Science Lecture
     description: OCI Atmospheres
     time: 9:00 - 9:45
     leads:
-    - Andy
-    - Lorraine
-  - title: BREAK
+    - Andy Sayer 
+    - Lorraine Remer 
+  - title: Break
     description: null
     time: 9:45 - 10:00
-  - title: OPEN PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 10:00 - 12:00
-  - title: LUNCH
+  - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: CODING TUTORIAL 1
+  - title: Coding Tutorial 1
     description: Collaboration via Git and GitHub&colon; core skills
     time: 13:00 - 13:45
     leads:
     - Eli Holmes
-  - title: CODING TUTORIAL 2
+  - title: Coding Tutorial 2
     description: OCSSW tools
     time: 14:00 - 14:45
     leads:
     - Carina Poulin
-  - title: BREAK
+  - title: Breaj
     description: null
     time: 14:45 - 15:00
-  - title: PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: CRAB DINNER
-    description: Crab Feast Dinner @ Patapsco State Park
+  - title: Dinner
+    description: Crab Feast Dinner @ Patapsco Valley State Park
     time: 17:00 - 
 - title: Day 4
   date: Wednesday 07 August
@@ -157,45 +149,44 @@ tabs:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: MORNING CHECKIN
+  - title: Warm up
     description: Announcements, Group checkins
     time: 8:30 - 9:00
-  - title: SCIENCE LECTURE
+  - title: Science Lecture
     description: PACE Polarimetry
     time: 9:00 - 9:45
     leads:
-    - Meng Gao
-    - Kirk
-  - title: BREAK
+    - Kirk Knobelspiesse
+  - title: Break
     description: null
     time: 9:45 - 10:00
-  - title: OPEN PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 10:00 - 12:00
-  - title: LUNCH
+  - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: CODING TUTORIAL 1
+  - title: Coding Tutorial 1
     description: Performant Computing&colon; dask and other parallelization tools, numpy vectorizing and numba, troubleshooting, debugging and profiling
     time: 13:00 - 13:45
     leads:
     - Ian Carroll
-  - title: CODING TUTORIAL 2
+  - title: Coding Tutorial 2
     description: Machine learning with PyTorch&colon; CPU vs. GPU, CUDA, autograd, datasets, simple model and optimization
     time: 14:00 - 14:45
     leads:
     - Sean Foley  
-  - title: BREAK
+  - title: Breaj
     description: null
     time: 14:45 - 15:00
-  - title: OPEN PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 15:00 - 17:00
   - title: DINNER
     description: Dinner @ True Grits
     time: 17:00 - 18:00
-  - title: EVENING ACTIVITY
-    description: Nerd Night! 
+  - title: Evening Activity
+    description: PACE Nerd Night 
     time: 18:00 - 
 - title: Day 5
   date: Thursday 08 August
@@ -203,34 +194,34 @@ tabs:
   - title: Breakfast
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
-  - title: MORNING CHECKIN
+  - title: Warm up
     description: Announcements, Group checkins
     time: 8:30 - 9:00
-  - title: SCIENCE LECTURE
+  - title: Science Lecture
     description: Earth system modeling and assimilation
     time: 9:00 - 9:45
     leads:
-    - Cecile
-  - title: BREAK
+    - Cecile Rousseaux
+  - title: Break
     description: null
     time: 9:45 - 10:00
-  - title: OPEN PROJECT WORK
+  - title: Group Project Work
     description: null
     time: 10:00 - 12:00
-  - title: LUNCH
-    description: null
+  - title: Lunch
+    description: Lunch @ True Grits
     time: 12:00 - 13:00
-  - title: CODING TUTORIAL
+  - title: Coding Tutorial 
     description: Creating reusable projects
     time: 13:00 - 13:45
     leads:
     - Patrick Gray
-  - title: PROJECT PRESENTATIONS
+  - title: Project Presentations
     description: null
     time: 14:00 - 17:00
   - title: DINNER
     description: Dinner @ True Grits
     time: 17:00 - 18:00
-  - title: EVENING ACTIVITY
+  - title: Evening Activity
     description: PACE Trivia
     time: 18:00 - 
