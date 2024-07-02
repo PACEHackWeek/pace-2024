@@ -8,7 +8,7 @@ Guidelines to ensure we offer a hospitable and inclusive event and a list of res
 ## Overview
 
 The organizers of this event are dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion.
-We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any event venues in either in-person or virtual form, including the Slack workspace. Participants (including event volunteers and organizers) violating these rules may be sanctioned or expelled from the {{hackweek}} at the discretion of the organizers.
+We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any event venues in either in-person or virtual form, including the Slack workspace. Participants (including event volunteers and organizers) violating these rules may be sanctioned or expelled from the PACE Hackweek at the discretion of the organizers.
 
 ## Definition of Harassment
 
@@ -30,13 +30,13 @@ We expect participants and instructors to act in ways that foster a supportive a
 ## Reporting a violation
 Harassment and other code of conduct violations reduce the value of the event for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible.
 
-If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to {{ '[`{email}`](mailto:{email})'.format(email=contact_email) }}, or contact an organizer on a private Slack channel. You may also submit an anonymous comment to our {{ '[virtual comment box]({url})'.format(url=anon_reporting_url) }}.
+If you feel comfortable contacting someone associated with our event, you may speak with one of the hackweek mentors in person, or send an e-mail to anna.windledipaola@nasa.gov. 
 
-If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
+Additionaly, you can:
 
-* Contact the Office of the Ombud, 206-543-6028, ombuds@uw.edu, [www.uw.edu/ombud](https://www.uw.edu/ombud). For individuals who are uncertain about whether they want to pursue a formal complaint but would like to speak to someone about unethical or unprofessional behavior or some other challenging situations, the Ombud office provides a confidential, informal, and neutral resource for you. They can assist you with determining what, if any, course of action you would like to pursue and to navigate the different resources on campus.
-* Speak up about discrimination to the University Complaint Investigation and Resolution Office (UCIRO), 206- 616-2028, uciro@uw.edu. Staff are available if you would like to file a formal complaint regarding discrimination.
-* Speak up about sexual misconduct to the Title IX Office, 206-616-5334, tixinv@uw.edu, [link](https://www.washington.edu/compliance/tixio/). Staff are available if you would like to file a formal complaint regarding sexual misconduct.
+* Email ocb_news@whoi.edu - this email goes to three Ocean Carbon and Biogeochemistry (OCB) project office staff members.
+* Submit an anonoymous incident report to OCB: [link](https://www.us-ocb.org/about/ocb-program-code-of-conduct/#:~:text=Expected%20behavior,verbal%20abuse%20of%20any%20participant)
 
 
-This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+
+
