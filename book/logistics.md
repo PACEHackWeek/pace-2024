@@ -8,13 +8,13 @@
 
 ## Location
 
-* Tutorials and courses will occur in the XXX Room.
-* Doors open at 8:30 am each morning (Monday-Friday). We will start the morning
-  sessions at 9:00 am sharp.
+* Lectures and tutorials will occur in the Interdisciplinary Life Sciences Building (ILSB) Rooms #116A and 237.
+* Doors open at 8:00 am each morning (Sunday-Thursday). We will start the morning
+  sessions at 8:30 am sharp.
 * Due to space limitations, only registered hackweek participants will be allowed
-  to attend the tutorials and open working sessions.
+  to attend the lectures, tutorials, and open working sessions.
 * Participants are expected to attend all scheduled activities. Contact
-  {{ contact_email }} if any circumstances prevent you from attending.
+  {{ anna.windledipaola@nasa.gov }} if any circumstances prevent you from attending.
 
 ## Dorms
 
@@ -23,28 +23,24 @@
   2pm at the front desk on Sunday, August 4th.
 * Check out is by 11am on Saturday, August 10th. There will be a room where you
   can store your luggage if your flight leaves later that day. Please let us
-  know immediately by emailing {{ contact_email }} if you plan on
+  know immediately by emailing {{ anna.windledipaola@nasa.gov }} if you plan on
   arriving/departing at an earlier/later date.
-* The front desk can direct you to the XXX Room where the meetings
-  and courses will be taking place.
 * The dorms have coin-operated laundry facilities.
 
 ## Meals
 
-* Breakfast and lunch will be provided each day through the meal cards that will
+* Breakfast, lunch, and dinner will be provided each day through the meal cards that will
   be given to you when you check in to the dorms.
-* Your meal card is programmed with the prearranged All-You-Care-to-Eat meals,
-  which can be used at Local Point dining hall. Please note that this is the
+* Your meal card is programmed with the prearranged meals,
+  which can be used at UMBC's True Grits dining hall. Please note that this is the
   only dining location on campus that the card will work for.
-* Breakfast is available in the dining facility from 7:30am – 10am
-  and lunch is available from 11am – 2:30pm.
-* If you are staying at a hotel or commuting, you will receive a meal card when
-  you check in at the welcome table on the first day at the XXX
-  Room.
+* Breakfast is available in the dining facility from 7:30am – 9:00am, lunch is available from 11am – 1:00pm,
+  and dinner is available from 5:00pm - 6:30pm.
+* If you are staying at a hotel or commuting, you will receive a meal card on Sunday morning in the ILSB building.
+* Coffee and snacks will be provided each day in the ILSB building. 
 
 ## Travel
 
-* Airport
-* Metro.
-* Taxis
+* (Include information about UMBC MARC bus schedule: https://transit.umbc.edu/schedules/bwi-marc-line-schedule/)
+* Taxis and uber/lyft are available from nearby airports. 
 
