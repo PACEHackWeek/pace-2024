@@ -1,0 +1,17 @@
+- title: Cecile Rousseaux
+  avatar: 
+  role: Research Scientist
+  organizations:
+    - name: NASA GSFC 
+      url: https://science.gsfc.nasa.gov/sci/bio/cecile.s.rousseaux
+  bio: Cecile Rousseaux started working at NASA Goddard in 2011. She leads the development of the NASA Ocean Biogeochemical Model (NOBM) at NASA and is the PACE Science Team Lead. 
+  expertise:
+    - Biogeochemical modeling
+    - Data assimilation
+    - Carbon cycle
+  social:
+    - icon: github
+      link: https://github.com/gmao-croussea
+  user_groups:
+    - Lecturer
+ 
