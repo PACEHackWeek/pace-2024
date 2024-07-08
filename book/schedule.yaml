@@ -12,7 +12,7 @@ tabs:
     leads:
     - Anna Windle
   - title: Science Lecture
-    description: PACE Mission Overview&colon; Instruments, Data products and their availability, In situ data availability (SVC, validation data), OB.DAAC info
+    description: PACE Mission Overview
     time: 9:00 - 9:45
     leads:
     - Jeremy Werdell  
@@ -25,7 +25,7 @@ tabs:
     leads:
     - Tasha Snow
   - title: Coding Tutorial 2
-    description: Cloud orientation and `earthaccess` Python library
+    description: Orientation to Earthdata Cloud Access
     time: 11:00 - 11:50
     leads:
     - Guoqing Wang
@@ -64,7 +64,7 @@ tabs:
     description: Announcements, Group checkins
     time: 8:30 - 9:00
   - title: Science Lecture
-    description: OCI Oceans&colon; ocean color, inversions, hyperspectral, baked in uncertainties
+    description: OCI Oceans
     time: 9:00 - 9:45
     leads:
     - Amir Ibrahim
@@ -79,12 +79,12 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Manipulation and visualization of multidimensional array data&colon; xarray, matplotlib, holoviews, seaborn.
+    description: Multidimensional data visualization
     time: 13:00 - 13:45
     leads:
     - Carina Poulin
   - title: Coding Tutorial 2
-    description: External data sources for matchups&colon; xvec, pandas, geopandas, KDTree
+    description: Matchups of in situ data with satellite data
     time: 14:00 - 14:45
     leads:
     - Anna Windle 
@@ -125,16 +125,16 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Collaboration via Git and GitHub&colon; core skills
+    description: Collaboration via Git and GitHub
     time: 13:00 - 13:45
     leads:
     - Eli Holmes
   - title: Coding Tutorial 2
-    description: OCSSW tools
+    description: Using the SeaDAS command line tools (OCSSW)
     time: 14:00 - 14:45
     leads:
     - Carina Poulin
-  - title: Breaj
+  - title: Break
     description: null
     time: 14:45 - 15:00
   - title: Group Project Work
@@ -167,22 +167,22 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Performant Computing&colon; dask and other parallelization tools, numpy vectorizing and numba, troubleshooting, debugging and profiling
+    description: Parallel and Larger-than-Memory Computing
     time: 13:00 - 13:45
     leads:
     - Ian Carroll
   - title: Coding Tutorial 2
-    description: Machine learning with PyTorch&colon; CPU vs. GPU, CUDA, autograd, datasets, simple model and optimization
+    description: Machine Learning with Satellite Data
     time: 14:00 - 14:45
     leads:
     - Sean Foley  
-  - title: Breaj
+  - title: Break
     description: null
     time: 14:45 - 15:00
   - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: DINNER
+  - title: Dinner
     description: Dinner @ True Grits
     time: 17:00 - 18:00
   - title: Evening Activity
@@ -198,7 +198,7 @@ tabs:
     description: Announcements, Group checkins
     time: 8:30 - 9:00
   - title: Science Lecture
-    description: Earth system modeling and assimilation
+    description: Earth System Modeling and Assimilation
     time: 9:00 - 9:45
     leads:
     - Cecile Rousseaux
@@ -212,14 +212,14 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: Coding Tutorial 
-    description: Creating reusable projects
+    description: Environments and Containers for Reusable Projects
     time: 13:00 - 13:45
     leads:
     - Patrick Gray
   - title: Project Presentations
     description: null
     time: 14:00 - 17:00
-  - title: DINNER
+  - title: Dinner
     description: Dinner @ True Grits
     time: 17:00 - 18:00
   - title: Evening Activity
