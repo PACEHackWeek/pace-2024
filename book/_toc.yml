@@ -15,7 +15,6 @@ parts:
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
-    - file: preliminary/git
     - file: preliminary/tutorials
 - caption: Tutorials
   chapters:
