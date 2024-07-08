@@ -1,16 +1,15 @@
 - title: Tasha Snow
   avatar: https://avatars.githubusercontent.com/u/12904976?v=4
-  role: Assistant Research Scientist
+  role: Research Scientist
   organizations:
     - name: NASA Goddard Space Flight Center
-    - name: Earth System Science Interdisciplinary Center, UMBC
+    - name: Earth System Science Interdisciplinary Center, UMD
   bio: Tasha is the Co-Founder of CryoCloud. Her research focuses on detecting ocean heat transport and glacier-ocean interactions with remote sensing (especially thermal infrared). In her research, she also works on cloud-based, open-sourced workflows for advancing data integration and machine learning techniques.
   expertise:
-    - remote sensing
-    - ice-ocean interaction
-    - machine learning
-    - open science
-    - cloud-computing
+    - Remote sensing
+    - Ice-ocean interaction
+    - Open science
+    - Cloud-computing
   social:
     - icon: github
       icon_pack: fab
