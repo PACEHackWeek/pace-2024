@@ -1,0 +1,18 @@
+- title: Andy Sayer
+  avatar: 
+  role: Senior research scientist
+  organizations:
+    - name: NASA GSFC 
+    - name: UMBC
+      url: https://science.gsfc.nasa.gov/sci/bio/andrew.sayer
+  bio: Hailing from Scotland, Dr. Andrew (Andy) Sayer spent his childhood looking up at the sky and now spends his working days looking at the Earth from the other direction. He's developed numerous data sets from both NASA and European satellite sensors. His particular areas of interest are aerosol particles like dust and smoke, as well as clouds.
+  expertise:
+    - Remote sensing of aerosol and cloud properties from satellites
+    - Satellite data validation
+    - Radiative transfer modeling
+  social:
+    - icon: github
+      link: https://github.com/amsayer
+  user_groups:
+    - Lecturer
+ 
