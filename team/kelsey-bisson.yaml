@@ -4,11 +4,11 @@
   organizations:
     - name: NASA Headquarters Science Mission Directorate
       url: https://science.nasa.gov/people/kelsey-bisson/
-  bio: '' 
-  expertise:
+  bio: ' ' 
+  expertise: ' '
   social:
     - icon: github
-      link: 
+      link: ' '
   user_groups:
     - Hackweek Organizer
     - Lecturer
