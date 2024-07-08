@@ -1,19 +1,18 @@
 - title: Meng Gao
-  avatar: https://science.gsfc.nasa.gov/images/Photos/89810/32202314487_610SED_March3_GAO(1).png
+  avatar:
   role: Data Scientist
   organizations:
     - name: NASA/GSFC/OEL
-      url: https://science.gsfc.nasa.gov/sci/bio/Drmeng.gao
+      url: https://science.gsfc.nasa.gov/sci/bio/meng.gao
   bio: Dr. Meng Gao is a research scientist in the Ocean Ecology Laboratory (OEL) at NASA Goddard Space Flight Center (GSFC). 
-       His research interests and expertise include light scattering theory, radiative transfer simulation, optimization algorithm, and deep learning. 
+  He currently supports NASA's PACE mission in advancing aerosol and ocean color remote sensing using PACE multi-angle polarimeters. 
   expertise:
-    - light scattering theory
-    - radiative transfer simulation
-    - optimization algorithms
+    - radiative transfer
+    - remote sensing
     - deep learning
   social:
     - icon: github
       link: https://github.com/kiwiriver
   user_groups:
-    - Tutorial Lead
+    - Hackweek planner 
  
