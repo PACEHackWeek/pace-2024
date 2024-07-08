@@ -2,7 +2,8 @@
 
 Here is our current list of project for our {{dates}} {{ hackweek }} hackweek:
 
-| Project Name (with link to GitHub repo) | Short Description | Project Lead(s) | 
-|:--------|:--------|:-----|
-| [Snow-Extrapolation](https://github.com/geo-smart/Snow-Extrapolation) | Goal: Improve National Snow Model (NSM) prediction performance in the Sierra Nevada mountains through domain constraints and the exploration of different ML algorithms. | Ryan Johnson | 
-
+| Project Name | Short Description |
+|:--------|:--------|
+| optical-water-typing | Apply optical water type classifications to OCI hyperpsectral Rrs data. |
+| smoke-aod | Investigate monitoring smoke plumes with aerosol optical depth (AOD) from OCI that have been detected in AERONET ground stations or from GOES-16 geostationary orbit. |
+|  | More to come from your applications! |
