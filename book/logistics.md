@@ -8,7 +8,7 @@
 
 ## Location
 
-* Lectures and tutorials will occur in the Interdisciplinary Life Sciences Building (ILSB) Rooms #116A and 237.
+* Lectures and tutorials will occur in the Interdisciplinary Life Sciences Building (ILSB) Rooms 116A and 237.
 * Doors open at 8:00 am each morning (Sunday-Thursday). We will start the morning
   sessions at 8:30 am sharp.
 * Due to space limitations, only registered hackweek participants will be allowed
@@ -41,6 +41,6 @@
 
 ## Travel
 
-* (Include information about UMBC MARC bus schedule: https://transit.umbc.edu/schedules/bwi-marc-line-schedule/)
+* UMBC MARC bus schedule: https://transit.umbc.edu/schedules/bwi-marc-line-schedule/
 * Taxis and uber/lyft are available from nearby airports. 
 
