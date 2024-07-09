@@ -1,9 +1,11 @@
 - title: Sean Foley
-  avatar: https://avatars.githubusercontent.com/u/12816599?v=4
+  avatar: https://gestar2.umbc.edu/wp-content/uploads/sites/674/2023/04/Sean_Foley-300x300.jpeg
   role: Data Scientist
   organizations:
     - name: NASA/GSFC/SED
       url: https://science.gsfc.nasa.gov/sci/bio/sean.r.foley
+    - name: Morgan State University
+    - name: GESTAR II
   bio: Sean Foley works on the application of machine learning and computer vision to challenging problems in remote sensing. More specifically, he is interested in how computer vision can better our understanding of 3D cloud structure.
   expertise:
     - machine learning
@@ -12,5 +14,6 @@
     - icon: github
       link: https://github.com/seanremy
   user_groups:
+    - Hackweek Organizer
     - Tutorial Lead
  
