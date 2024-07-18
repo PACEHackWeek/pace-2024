@@ -8,7 +8,13 @@ through these tutorials interactively. On JupyterHub, your home directory persis
 so any changes you make to the tutorials will be saved and be there for you next
 time you log in.
 
-| Tutorial | Topics | Datasets |  Recording Link |
-| -  | - | - |  - |
-| [oci_data_access](./oci/oci_data_access.ipynb) | Accessing OCI data | n/a |  Not recorded |
-| [oci_file_structure](./oci/oci_file_structure.ipynb) | Overview of the netCDF structure | n/a |  Not recorded |
+| Tutorial |  Recording Link |
+| -  | - |
+| Overview of CryoCloud JupyterHub | Not recorded |
+| Orientation to Earthdata Cloud Access | Not recorded |
+| Multidimensional data visualization | Not recorded |
+| Matchups of in situ data with satellite data | Not recorded |
+| Using the SeaDAS command line tools (OCSSW) | Not recorded |
+| Parallel and Larger-than-Memory Computing | Not recorded |
+| Machine Learning with Satellite Data | Not recorded |
+| Environments and Containers for Reusable Projects | Not recorded |
