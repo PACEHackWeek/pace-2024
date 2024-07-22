@@ -6,9 +6,9 @@
       url: https://science.gsfc.nasa.gov/sci/bio/ivona.cetinic
   bio: Ivona likes pretty phytoplankton, shiny lights and bright colors. Hence, she decided to dedicate her life to developing optical tools to study phytoplankton, and understand the role their diversity plays in oceanic ecosystems. She has been with NASA Ocean Ecology Lab since 2015, and prior to that she has worked at University of Maine, after getting her PhD at University of Southern California in 2009.
   expertise: 
-  - Ocean optics
-  - Phytoplankton Ecology
-  - Ocean Biogeochemistry
+    - Ocean optics
+    - Phytoplankton Ecology
+    - Ocean Biogeochemistry
   social:
     - icon: 
       link: 
