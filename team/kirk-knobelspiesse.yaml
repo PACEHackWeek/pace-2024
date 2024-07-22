@@ -1,13 +1,16 @@
 - title: Kirk Knobelspiesse
-  avatar: ' '
-  role: ' '
+  avatar: https://science.gsfc.nasa.gov/images/Photos/27138/26920228481__4295.jpg
+  role: PACE Polarimeter Lead
   organizations:
     - name: NASA GSFC 
-      url: ' '
-  bio: ' ' 
-  expertise: ' '
+      url: https://science.gsfc.nasa.gov/sci/bio/kirk.d.knobelspiesse
+  bio: Dr. Kirk Knobelspiesse is a remote sensing specialist working to improve our ability to monitor the Earth’s climate. His education began with an undergraduate degree in photography and concluded with a PhD in applied mathematics.
+  expertise: 
+  - information content assessment
+  - algorithm development
+  - validation with ground and airborne observations
   social:
     - icon: github
-      link: ' '
+      link: https://github.com/knobelsp
   user_groups:
     - Lecturer
