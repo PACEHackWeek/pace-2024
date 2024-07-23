@@ -18,14 +18,11 @@
 
 ## Dorms
 
-* Dorms are all single/double rooms and each contain a private bathroom.
-* Participants who opt to will be staying at XXX Hall. Please Check in after
-  2pm at the front desk on Sunday, August 4th.
-* Check out is by 11am on Saturday, August 10th. There will be a room where you
-  can store your luggage if your flight leaves later that day. Please let us
-  know immediately by emailing {{ anna.windledipaola@nasa.gov }} if you plan on
-  arriving/departing at an earlier/later date.
-* The dorms have coin-operated laundry facilities.
+* Dorms are all single rooms with a shared bathroom. 
+* Participants who opt to will be staying at Chesapeake Hall.
+* Dorm check-in will be from 9am to 5pm on Saturday, August 3rd.
+* Dorm check-out will be from 9am to 12pm on Friday, August 9th.
+* There is a 24 hour desk in the lobby of the dorm. If you are arriving after 5pm on Saturday, check in at the 24 hour desk. 
 
 ## Meals
 
@@ -34,7 +31,7 @@
 * Your meal card is programmed with the prearranged meals,
   which can be used at UMBC's True Grits dining hall. Please note that this is the
   only dining location on campus that the card will work for.
-* Breakfast is available in the dining facility from 7:30am – 9:00am, lunch is available from 11am – 1:00pm,
+* Breakfast is available in the dining facility from 7:30am – 9:00am, lunch is available from 11:30am – 1:00pm,
   and dinner is available from 5:00pm - 6:30pm.
 * If you are staying at a hotel or commuting, you will receive a meal card on Sunday morning in the ILSB building.
 * Coffee and snacks will be provided each day in the ILSB building. 
