@@ -39,5 +39,8 @@
 ## Travel
 
 * UMBC MARC bus schedule: https://transit.umbc.edu/schedules/bwi-marc-line-schedule/
-* Taxis and uber/lyft are available from nearby airports. 
+* Taxis and uber/lyft are available from nearby airports.
+
+## Campus Map
+![campus_map](https://github.com/PACEHackWeek/pace-2024/blob/main/book/img/UMBC_campus_map.png)
 
