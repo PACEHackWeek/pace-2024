@@ -60,6 +60,10 @@ Please follow these instructions which will guide you through gaining access to 
 
 It can take several minutes for new servers to launch on the cloud. Once things are spun up, you will see your very own instance of a JupyterLab environment. 
 
+We will be using a Docker image that contains everything we will need for the hackweek. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: quay.io/pacehackweek/pace-2024:latest into the Custom image field.
+
+
+
 You will have access to your own virtual drive space under the `/home/jovyan` directory. No other users will be able to see or access your data files. You can add/remove/edit files in your virtual drive space. You will also have access to the `shared` folder (read-only access), and to the *`shared-public`* folder (read and write access). These are shared spaces so please make sure not to delete files from here unless they are yours.
 
 *To save our community money, when you are finished working for the day it is really helpful for you to explicitly stop your server before logging out of your JupyterHub session.* To shut your server down immediately when you’re exiting your session please select “File -> Hub Control Panel -> Stop my Server” then you can click the “Log Out” button. We ask this because when you keep a session active it uses up AWS resources and these resources cost money per hour of use. If you forget this step, though, the server will shut down automatically after 90 min of no use.
