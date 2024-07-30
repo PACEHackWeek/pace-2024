@@ -3,7 +3,7 @@
   role: ''
   organizations:
     - name: NASA/GSFC 
-      url:https://science.gsfc.nasa.gov/sci/bio/amir.ibrahim
+      url: https://science.gsfc.nasa.gov/sci/bio/amir.ibrahim
   bio:''
   expertise:
     - 
