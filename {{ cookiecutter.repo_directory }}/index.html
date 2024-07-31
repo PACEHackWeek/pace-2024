@@ -111,13 +111,14 @@
             </h1>
             <div class="hero-meta mb-3">
                 <i class="far fa-calendar-alt me-2"></i>
-                {{ cookiecutter.banner.start_date }} - {{
-                cookiecutter.banner.end_date }}
+                {{ cookiecutter.banner.start_date }} - {{ cookiecutter.banner.end_date }}
+            </div>
+            <div class="hero-meta mb-3">
                 <i class="fas fa-map-marker-alt mx-2"></i>
                 {{ cookiecutter.banner.location }}
             </div>
-            <div class="hero-intro mb-4">{{ cookiecutter.banner.description
-                }}
+            <div class="hero-intro mb-4">
+                {{ cookiecutter.banner.description }}
             </div>
             {%- if cookiecutter.banner.links %}
             <div class="hero-cta">
