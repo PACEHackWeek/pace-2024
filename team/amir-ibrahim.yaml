@@ -5,9 +5,9 @@
     - name: NASA/GSFC 
       url: https://science.gsfc.nasa.gov/sci/bio/amir.ibrahim
   bio: ' '
-  expertise:
+  expertise: ' ' 
   social:
     - icon: github
-      link: 
+      link: ' ' 
   user_groups:
     - Lecturer
