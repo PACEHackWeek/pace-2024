@@ -29,6 +29,7 @@ tabs:
     time: 11:00 - 11:50
     leads:
     - Anna Windle 
+    - James Allen 
   - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
@@ -68,6 +69,7 @@ tabs:
     time: 9:00 - 9:45
     leads:
     - Ivona Cetinić 
+    - Amir Ibrahim 
   - title: Break
     description: null
     time: 9:45 - 10:00
