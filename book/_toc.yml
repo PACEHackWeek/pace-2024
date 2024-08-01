@@ -19,11 +19,11 @@ parts:
   chapters:
     - file: presentations/lectures
     - file: presentations/tutorials
-      # sections:
+      sections:
       #   - file: presentations/hackweek/earthdata_cloud_access.ipynb
       #     title: Earthdata Cloud
-      #   - file: presentations/hackweek/ocssw_processing.ipynb
-      #     title: OCSSW Processing
+        - file: presentations/hackweek/ocssw_processing.ipynb
+          title: OCSSW Processing
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
