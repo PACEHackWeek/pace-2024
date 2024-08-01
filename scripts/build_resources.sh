@@ -39,12 +39,12 @@ echo "Building the Jupyter Book"
 cd ../
 jupyter-book build book/ --keep-going
 
-echo "Clearing Outputs & Metadata from Notebook Sources"
-jupyter nbconvert \
-  --ClearOutputPreprocessor.enabled=True \
-  --ClearMetadataPreprocessor.enabled=True \
-  --to=notebook \
-  --inplace \
-  book/_build/html/_sources/presentations/hackweek/*.ipynb
+# echo "Clearing Outputs & Metadata from Notebook Sources"
+# jupyter nbconvert \
+#   --ClearOutputPreprocessor.enabled=True \
+#   --ClearMetadataPreprocessor.enabled=True \
+#   --to=notebook \
+#   --inplace \
+#   book/_build/html/_sources/presentations/hackweek/*.ipynb
 
 check_success
