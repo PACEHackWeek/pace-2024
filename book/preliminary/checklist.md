@@ -62,7 +62,7 @@ It can take several minutes for new servers to launch on the cloud. Once things 
 
 We will be using a Docker image that contains everything we will need for the hackweek. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: quay.io/pacehackweek/pace-2024:latest into the Custom image field.
 
-![Docker_image](../img/Docer_image_instructions.png)
+![Docker_image](../img/Docker_image_instructions.png)
 
 You will have access to your own virtual drive space under the `/home/jovyan` directory. No other users will be able to see or access your data files. You can add/remove/edit files in your virtual drive space. You will also have access to the `shared` folder (read-only access), and to the *`shared-public`* folder (read and write access). These are shared spaces so please make sure not to delete files from here unless they are yours.
 

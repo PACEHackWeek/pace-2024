@@ -3,7 +3,7 @@
 ![banner](img/pace-banner-1.png)
 
 
-📖 On this JupyterBook website you'll find [tutorials](tutorials/index). All tutorials are Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience.
+📖 On this JupyterBook website you'll find [tutorials](presentations/tutorials). All tutorials are Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience.
 
 👩‍💻 During a Hackweek teams work collaboratively on different projects. Read more about the projects and results on our [projects page](projects/list_of_projects)
 

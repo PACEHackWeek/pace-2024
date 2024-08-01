@@ -15,18 +15,12 @@ parts:
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
-    - file: preliminary/tutorials
-- caption: Tutorials
+- caption: Presentations
   chapters:
-    - file: tutorials/index
+    - file: presentations/lectures
+    - file: presentations/tutorials
       sections:
-        - file: tutorials/oci/Introduction
-          sections:
-            - file: tutorials/oci/oci_data_access
-            - file: tutorials/oci/oci_file_structure
-        - file: tutorials/harp2/Introduction
-          sections:
-            - file: tutorials/harp2/harp2_basic_visualizations
+        - glob: presentations/hackweek/*.ipynb
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
