@@ -7,9 +7,9 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=schedule
+      url: index.html?jump_to=schedule
     - title: Team
-      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=team
+      url: index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
