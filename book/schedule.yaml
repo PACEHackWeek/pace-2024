@@ -29,7 +29,6 @@ tabs:
     time: 11:00 - 11:50
     leads:
     - Anna Windle 
-    - James Allen 
   - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
@@ -89,6 +88,7 @@ tabs:
     time: 14:00 - 14:45
     leads:
     - Anna Windle 
+    - James Allen 
   - title: Break
     description: null
     time: 14:45 - 15:00
