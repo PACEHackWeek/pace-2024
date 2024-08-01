@@ -7,9 +7,9 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: index.html?jump_to=schedule
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=schedule
     - title: Team
-      url: index.html?jump_to=team
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
@@ -21,7 +21,9 @@ parts:
     - file: presentations/tutorials
       sections:
         - file: presentations/hackweek/earthdata_cloud_access.ipynb
+          title: Earthdata Cloud
         - file: presentations/hackweek/ocssw_processing.ipynb
+          title: OCSSW Processing
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
