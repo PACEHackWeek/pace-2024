@@ -42,5 +42,5 @@
 * Taxis and uber/lyft are available from nearby airports.
 
 ## Campus Map
-![campus_map](https://github.com/PACEHackWeek/pace-2024/blob/main/book/img/UMBC_campus_map.png)
+![campus_map](img/UMBC_campus_map.png)
 
