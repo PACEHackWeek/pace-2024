@@ -16,7 +16,7 @@ parse:
     book_repo: "pace-2024"
     website_url: "https://PACEHackWeek.github.io/pace-2024"
     jupyterhub_url: "https://hub.cryointhecloud.com/"
-    slack_workspace_url: "https://join.slack.com/t/cryospherecloud/shared_invite/zt-1isgbeuhh-q~cYYKtn_6i3PR1alGca_g"
+    slack_workspace_url: "https://cryospherecloud.slack.com/"
     contact_email: "anna.windledipaola@nasa.gov"
     anon_reporting_url: "https://INSERT_FORM_LINK"
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
