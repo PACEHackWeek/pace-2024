@@ -39,8 +39,7 @@ echo "Building the Jupyter Book"
 cd ../
 jupyter-book build book/ --keep-going
 
-echo "Cleaning the Sources Notebooks"
-jupyter nbconvert 
+echo "Clearing Outputs & Metadata from Notebook Sources"
 jupyter nbconvert \
   --ClearOutputPreprocessor.enabled=True \
   --ClearMetadataPreprocessor.enabled=True \

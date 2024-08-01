@@ -21,6 +21,7 @@ parts:
     - file: presentations/tutorials
       sections:
         - file: presentations/hackweek/earthdata_cloud_access.ipynb
+        - file: presentations/hackweek/ocssw_processing.ipynb
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
