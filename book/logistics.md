@@ -14,7 +14,7 @@
 * Due to space limitations, only registered hackweek participants will be allowed
   to attend the lectures, tutorials, and open working sessions.
 * Participants are expected to attend all scheduled activities. Contact
-  {{ anna.windledipaola@nasa.gov }} if any circumstances prevent you from attending.
+  [anna.windledipaola@nasa.gov](mailto://anna.windledipaola@nasa.gov) if any circumstances prevent you from attending.
 
 ## Dorms
 
@@ -42,5 +42,5 @@
 * Taxis and uber/lyft are available from nearby airports.
 
 ## Campus Map
-![campus_map](https://github.com/PACEHackWeek/pace-2024/blob/main/book/img/UMBC_campus_map.png)
+![campus_map](img/UMBC_campus_map.png)
 

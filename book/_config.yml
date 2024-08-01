@@ -13,12 +13,11 @@ parse:
     hackweek: "PACE Hackweek"
     dates: "August 4 to 8, 2024"
     github_org_url: "https://github.com/PACEHackWeek"
-    book_repo: "Hackweek-2024-book"
+    book_repo: "pace-2024"
     website_url: "https://PACEHackWeek.github.io/pace-2024"
     jupyterhub_url: "https://hub.cryointhecloud.com/"
-    slack_workspace_url: "https://INSERT_SLACK_URL"
+    slack_workspace_url: "https://cryospherecloud.slack.com/"
     contact_email: "anna.windledipaola@nasa.gov"
-    dataset: "INSERT_DATA_SET_NAME"
     anon_reporting_url: "https://INSERT_FORM_LINK"
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
   myst_enable_extensions:
@@ -33,22 +32,17 @@ parse:
 # See https://jupyterbook.org/content/execute.html
 execute:
   # NOTE: 'cache' to use jupyter-cache, or 'force' to run all
-  execute_notebooks: 'off'
+  execute_notebooks: off
   exclude_patterns:
     - "**/*.ipynb"
   allow_errors: true
   # Per-cell notebook execution limit (seconds)
   timeout: 300
-
+  
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
     targetname: book.tex
-
-# Configure your Binder links, such as the URL of the BinderHub.
-launch_buttons:
-  notebook_interface: jupyterlab
-  binderhub_url: "https://mybinder.org"
 
 # Information about where the book exists on the web
 repository:
@@ -63,9 +57,10 @@ sphinx:
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
     nb_custom_formats:
-        .py:
-            - jupytext.reads
-            - fmt: py:percent
+      .ipynb:
+        - nbformat.reads
+        - as_version: 4
+        - True
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository

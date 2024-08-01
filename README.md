@@ -20,6 +20,14 @@ This the JupyterBook content for the PACE Hackweek 2024.
     * Do you want to add files specific to the hackweek? You can add those, to the pace-2024 repo.
 9. Once the PR looks good in netlify, it can be merged.
 
+OR
+
+1. Clone the oceandata-noteboooks in adjacent directory, use quay.io/pacehackweek/pace-2024:latest to build as in README
+2. Copy them to the tutorials folder
+   ```
+   rsync -a ../oceandata-notebooks/src/_build/jupyter_execute/notebooks/hackweek/ book/presentations/hackweek/
+   ```
+
 ### Updating other parts of the Jupyter Book
 
 2. Make the necessary changes.
