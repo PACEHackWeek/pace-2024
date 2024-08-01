@@ -66,7 +66,7 @@ Personal Access Tokens, which you can learn more about on [GitHub docs][gh-docs]
 
 [gh-docs]:https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-#### 4.1 CryoCloud GitHub Access
+#### Option 1: CryoCloud GitHub Access
 
 We recommend this method if you have permission to configure a GitHub App on the user or organization where you
 need to authenticate. For instance, if you want to push to `https://github.com/example/repo.git`, then you need to have
@@ -97,12 +97,11 @@ showing the Terminal way just described.
 
 ![gh-scoped-creds](https://miro.medium.com/v2/resize:fit:720/format:webp/1*B3qjACXLBG9pBOlzY8WNxA.gif)
 
-#### 4.1 Manual Configuration
+#### Option 2: Manual Configuration
 
 Work through the instructions on the
 [GitHub personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
-page. The minimal permission you likely need is the **repo** scope, so match this image when you get to
-the page with lots of check-boxes.
+page. The maximum permissions you likely need is the **repo** scope.
 
 ![github-token](../img/github-token.png)
 
@@ -115,7 +114,8 @@ git config --global credential.helper store
 
 To use the Personal Access Token, you need to use `git` to do something that requires authentication, such as
 pushing to a repository or cloning a private repository. These actions will prompt
-for input of your credentials. When prompted for a password, user your created token.
+for input of your credentials. When prompted for a password, use the Personal Access Token rather than your
+GitHub password.
 
 ```{attention}
 The prompt for the `Password:` will not show any characters that are entered
