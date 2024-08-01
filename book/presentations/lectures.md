@@ -5,8 +5,8 @@ and recordings will be linked from this page as they become available.
 
 | Title | Slides | Recording |
 | -  | - | - |
-| PACE Mission Overview                  | {fas}`presentation` | {fas}`camera-movie` |
-| OCI Oceans                             | {fas}`presentation` | {fas}`camera-movie` |
-| OCI Atmospheres                        | {fas}`presentation` | {fas}`camera-movie` |
-| HARP2/SPEXone Polarimetry              | {fas}`presentation` | {fas}`camera-movie` |
-| Earth System Modeling and Assimilation | {fas}`presentation` | {fas}`camera-movie` |
+| PACE Mission Overview                  | {fas}`link` | {fas}`youtube` |
+| OCI Oceans                             | {fas}`link` | {fas}`youtube` |
+| OCI Atmospheres                        | {fas}`link` | {fas}`youtube` |
+| HARP2/SPEXone Polarimetry              | {fas}`link` | {fas}`youtube` |
+| Earth System Modeling and Assimilation | {fas}`link` | {fas}`youtube` |
