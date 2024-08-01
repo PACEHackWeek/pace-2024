@@ -14,7 +14,7 @@
 * Due to space limitations, only registered hackweek participants will be allowed
   to attend the lectures, tutorials, and open working sessions.
 * Participants are expected to attend all scheduled activities. Contact
-  {{ anna.windledipaola@nasa.gov }} if any circumstances prevent you from attending.
+  [anna.windledipaola@nasa.gov](mailto://anna.windledipaola@nasa.gov) if any circumstances prevent you from attending.
 
 ## Dorms
 

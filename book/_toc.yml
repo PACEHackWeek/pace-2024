@@ -20,7 +20,7 @@ parts:
     - file: presentations/lectures
     - file: presentations/tutorials
       sections:
-        - glob: presentations/hackweek/*.ipynb
+        - file: presentations/hackweek/earthdata_cloud_access.ipynb
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
