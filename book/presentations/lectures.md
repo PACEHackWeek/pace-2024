@@ -1,4 +1,4 @@
-# Science Lectures
+# Lectures
 
 Lectures from PACE project scientists are recorded live during the Hackweek. The slides
 and recordings will be linked from this page as they become available.
