@@ -11,12 +11,16 @@ time you log in.
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of CryoCloud JupyterHub                  | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Orientation to Earthdata Cloud Access             | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Satellite Data Visualization                      | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Matchups of in-situ Data With Satellite Data      | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Collaboration via Git and GitHub                  | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Using the SeaDAS Command Line Tools (OCSSW)       | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Parallel and Larger-than-Memory Computing         |             | {fas}`download` | {fab}`youtube` |
-| Machine Learning with Satellite Data              | {fas}`link` | {fas}`download` | {fab}`youtube` |
-| Environments and Containers for Reusable Projects | {fas}`link` | {fas}`download` | {fab}`youtube` |
+| Overview of CryoCloud JupyterHub                  | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| [Orientation to Earthdata Cloud Access](./hackweek/earthdata_cloud_access.ipynb)  | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
+| [Satellite Data Visualization](./hackweek/satdata_visualization.ipynb)  | {fas}`eye;sd-text-light` | [{fas}`download;sd-text-primary`][viz-nb] | {fab}`youtube;sd-text-light` |
+| Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| Using the SeaDAS Command Line Tools (OCSSW)  | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| Parallel and Larger-than-Memory Computing         |  |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| Machine Learning with Satellite Data              | {fas}`eye;sd-text-light` | {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+
+[ed-slides]:https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
+[ed-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
+[viz-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
+[ocssw-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb

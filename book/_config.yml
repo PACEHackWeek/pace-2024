@@ -4,7 +4,7 @@
 title: PACE Hackweek 2024
 author: content NASA/GSFC, template eScience Institute/UW
 logo: logo.png
-only_build_toc_files: true
+only_build_toc_files: false
 
 parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
