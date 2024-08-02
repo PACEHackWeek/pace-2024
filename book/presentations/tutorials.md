@@ -21,6 +21,6 @@ time you log in.
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 
 [earthdata]:https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
-[earthdatanb]:https://pacehackweek.hackweek.io/_sources/Presentaitons/hackweek/earthdata_cloud_access.ipynb
+[earthdatanb]:https://pacehackweek.hackweek.io/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
 
 
