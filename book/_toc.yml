@@ -21,8 +21,10 @@ parts:
     - file: presentations/lectures
     - file: presentations/tutorials
       sections:
-        - file: presentations/hackweek/earthdata_cloud_access.ipynb
+        - file: presentations/hackweek/earthdata_cloud_access
           title: Earthdata Cloud
+        - file: presentations/hackweek/satdata_visualization
+          title: Data Visualization
       #   - file: presentations/hackweek/ocssw_processing.ipynb
       #     title: OCSSW Processing
 - caption: Projects
