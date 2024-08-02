@@ -25,8 +25,8 @@ parts:
           title: Earthdata Cloud
         - file: presentations/hackweek/satdata_visualization
           title: Data Visualization
-      #   - file: presentations/hackweek/ocssw_processing.ipynb
-      #     title: OCSSW Processing
+       - file: presentations/hackweek/ocssw_processing.ipynb
+         title: OCSSW Processing
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
