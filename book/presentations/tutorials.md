@@ -15,7 +15,7 @@ time you log in.
 | [Orientation to Earthdata Cloud Access](./hackweek/earthdata_cloud_access.ipynb)  | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
 | [Satellite Data Visualization](./hackweek/satdata_visualization.ipynb)  | {fas}`eye;sd-text-light` | [{fas}`download;sd-text-primary`][viz-nb] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
-| Using the SeaDAS Command Line Tools (OCSSW)  | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
+| [Using the SeaDAS Command Line Tools (OCSSW)](./hackweek/ocssw_processing.ipynb)  | {fas}`eye;sd-text-light` |  [{fas}`download;sd-text-light`][ocssw-nb] | {fab}`youtube;sd-text-light` |
 | Parallel and Larger-than-Memory Computing         |  |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Machine Learning with Satellite Data              | {fas}`eye;sd-text-light` | {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
