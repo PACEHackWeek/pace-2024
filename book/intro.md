@@ -12,5 +12,5 @@
 :class: seealso
 * JupyterHub: {{ jupyterhub_url }}
 * Slack Workspace: {{ slack_workspace_url }}
-* Projects Spreadsheet: {{ project_spreadsheet_url }}
+* Projects Spreadsheet: {{ '[PACE Hackweek Projects]({url})'.format(url=project_spreadsheet_url) }}
 ```

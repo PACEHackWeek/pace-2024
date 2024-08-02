@@ -27,16 +27,16 @@ parts:
           title: Data Visualization
         - file: presentations/hackweek/satellite_insitu_matchups
           title: Matchups
-        # - file: presentations/hackweek/ocssw_processing
-        #   title: OCSSW Processing
+        - file: presentations/hackweek/ocssw_processing
+          title: OCSSW Processing
         # - file: presentations/hackweek/dask_gridding
         #   title: Compute with Dask
-        # - file: presentations/hackweek/ml_cloud_mask
-        #   title: Machine Learning
+        - file: presentations/hackweek/ml_cloud_mask
+          title: Machine Learning
 - caption: Projects
   chapters:
-    - file: projects/list_of_projects
     - file: projects/index
+    - file: projects/list_of_projects
 - caption: Reference
   chapters:
     - file: reference/glossary
