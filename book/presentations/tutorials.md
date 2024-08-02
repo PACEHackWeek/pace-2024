@@ -12,7 +12,7 @@ time you log in.
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of CryoCloud JupyterHub                  | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
-| [Orientation to Earthdata Cloud Access](./hackweek/earthdata_cloud_access.ipynb)  | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`eye;sd-text-light`][ed-html] [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
+| [Orientation to Earthdata Cloud Access](./hackweek/earthdata_cloud_access.ipynb)  | [{fas}`eye;sd-text-primary`](./hackweek/earthdata_cloud_access.ipynb) | [{fas}`eye;sd-text-light`][ed-html] [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
 | Satellite Data Visualization                      | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
