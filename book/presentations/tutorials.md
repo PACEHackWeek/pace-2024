@@ -12,7 +12,7 @@ time you log in.
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of CryoCloud JupyterHub                  | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
-| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][earthdata] | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][earthdatanb] | {fab}`youtube;sd-text-light` |
+| [Orientation to Earthdata Cloud Access ](./hackweek/earthdata_cloud_access.ipynb)            | [{fas}`eye;sd-text-primary`][earthdata] | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][earthdatanb] | {fab}`youtube;sd-text-light` |
 | Satellite Data Visualization                      | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | {fas}`eye;sd-text-light` | {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
@@ -22,4 +22,5 @@ time you log in.
 
 [earthdata]:https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
 [earthdatanb]:https://pacehackweek.hackweek.io/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
+[earthdatahtml]:(./example/tutorial-notebook.ipynb)
 
