@@ -6,3 +6,7 @@ root {
     --sd-color-secondary: #6c757d;
     --sd-text-secondary: #6c757d;
 }
+
+.wy-side-nav-search, .wy-nav-top {
+    background: #0b750a;
+}
