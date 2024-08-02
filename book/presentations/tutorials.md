@@ -21,6 +21,6 @@ time you log in.
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 
 [ed-slides]:https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
-[ed-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
-[viz-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
-[ocssw-nb]:https://pacehackweek.hackweek.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
+[ed-nb]:https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
+[viz-nb]:https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
+[ocssw-nb]:https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
