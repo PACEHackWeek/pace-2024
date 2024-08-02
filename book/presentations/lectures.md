@@ -5,13 +5,13 @@ and recordings will be linked from this page as they become available.
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
-| Welcome to the PACE Hackweek | [{fas}`link;sd-text-primary`][welcome] | {fab}`youtube` |
-| PACE Mission Overview                  | {fas}`link` | {fab}`youtube` |
-| OCI Oceans                             | {fas}`link` | {fab}`youtube` |
-| OCI Atmospheres                        | {fas}`link` | {fab}`youtube` |
-| HARP2/SPEXone Polarimetry              | {fas}`link` | {fab}`youtube` |
-| Earth System Modeling and Assimilation | {fas}`link` | {fab}`youtube` |
-| Reproductible research: collaboration via GitHub  | {fas}`link` | {fas}`youtube` |
+| Welcome to the PACE Hackweek | [{fas}`eye;sd-text-primary`][welcome] | {fab}`youtube;sd-text-light` |
+| PACE Mission Overview                  | {fas}`eye` | {fab}`youtube;sd-text-dark` |
+| OCI Oceans                             | {fas}`eye` | {fab}`youtube` |
+| OCI Atmospheres                        | {fas}`eye` | {fab}`youtube` |
+| HARP2/SPEXone Polarimetry              | {fas}`eye` | {fab}`youtube` |
+| Earth System Modeling and Assimilation | {fas}`eye` | {fab}`youtube` |
+| Reproductible research: collaboration via GitHub  | {fas}`link` | {fab}`youtube` |
 
 
 [welcome]:https://docs.google.com/presentation/d/1BZ1t-3GsQ8d6ZeMfittVVJcwt4CPEUOAIeQgCfQTWcs/present?usp=sharing
