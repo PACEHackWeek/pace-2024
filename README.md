@@ -22,11 +22,12 @@ This the JupyterBook content for the PACE Hackweek 2024.
 
 OR
 
-1. Clone the oceandata-noteboooks in adjacent directory, use quay.io/pacehackweek/pace-2024:latest to build as in README
-2. Copy them to the tutorials folder
+1. Clone the oceandata-noteboooks in an adjacent directory, and follow README instructions to build. (`jb build src/`)
+2. Copy updates to the executed notebooks from the src/_build folder of the oceandata-notebooks repo to the book in this repo.
    ```
    rsync -a ../oceandata-notebooks/src/_build/jupyter_execute/notebooks/hackweek/ book/presentations/hackweek/
    ```
+3. Commit the executed notebooks in this repo, and push to a PR tagged with `preview`.
 
 ### Updating other parts of the Jupyter Book
 
