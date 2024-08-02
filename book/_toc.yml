@@ -19,8 +19,8 @@ parts:
   chapters:
     - file: presentations/lectures
     - file: presentations/tutorials
-      sections:
-        - file: presentations/hackweek/earthdata_cloud_access.ipynb
+      # sections:
+      #   - file: presentations/hackweek/earthdata_cloud_access.ipynb
       #     title: Earthdata Cloud
       #   - file: presentations/hackweek/ocssw_processing.ipynb
       #     title: OCSSW Processing
