@@ -11,7 +11,7 @@ and recordings will be linked from this page as they become available.
 | OCI Atmospheres                        | {fas}`eye` | {fab}`youtube` |
 | HARP2/SPEXone Polarimetry              | {fas}`eye` | {fab}`youtube` |
 | Earth System Modeling and Assimilation | {fas}`eye` | {fab}`youtube` |
-| Reproductible research: collaboration via GitHub  | {fas}`link` | {fab}`youtube` |
+| Reproductible research: collaboration via GitHub  | {fas}`eye` | {fab}`youtube` |
 
 
 [welcome]:https://docs.google.com/presentation/d/1BZ1t-3GsQ8d6ZeMfittVVJcwt4CPEUOAIeQgCfQTWcs/present?usp=sharing
