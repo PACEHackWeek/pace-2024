@@ -35,8 +35,8 @@ parts:
           title: Machine Learning
 - caption: Projects
   chapters:
-    - file: projects/list_of_projects
     - file: projects/index
+    - file: projects/list_of_projects
 - caption: Reference
   chapters:
     - file: reference/glossary

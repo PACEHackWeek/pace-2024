@@ -4,10 +4,10 @@ The IDs and descriptions below are a starting point for developing projects to c
 our {{dates}} {{ hackweek }} hackweek. The list will shrink (or grow!) and the descriptions
 will change. We are excited to find out what you'll do!
 
-Find the dynamic version of this table, where your input is required, on [Google Drive]({{ project_spreadsheet_url }}).
+Find the dynamic version of this table, where your input is required, on {{ '[Google Drive]({url})'.format(url=project_spreadsheet_url) }}.
 
 | Project ID | Short Description |
-|:-----------|:-----------------:|
+|:-----------|:------------------|
 |1  | develop regionally tuned total suspended solids algorithim using OCI and GLORIA dataset    |
 |2  | synthesize OCI oxygen-A band and MAP products for coastal atmospheric correction           |
 |3  | use in-situ CDOM, DOC, Rrs data to explore using spectral slopes in UV for DOC estimation  |

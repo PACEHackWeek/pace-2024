@@ -35,8 +35,7 @@ If you feel comfortable contacting someone associated with our event, you may sp
 Additionaly, you can:
 
 * Email ocb_news@whoi.edu - this email goes to three Ocean Carbon and Biogeochemistry (OCB) project office staff members.
-* Submit an anonoymous incident report to OCB: [link](https://www.us-ocb.org/about/ocb-program-code-of-conduct/#:~:text=Expected%20behavior,verbal%20abuse%20of%20any%20participant)
-
+* Submit an anonoymous incident report to OCB: {{ '[link]({url})'.format(url=anon_reporting_url) }}
 
 
 
