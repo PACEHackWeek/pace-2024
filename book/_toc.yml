@@ -15,15 +15,24 @@ parts:
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
+    - file: preliminary/git
 - caption: Presentations
   chapters:
     - file: presentations/lectures
     - file: presentations/tutorials
       sections:
-      #   - file: presentations/hackweek/earthdata_cloud_access.ipynb
-      #     title: Earthdata Cloud
-        - file: presentations/hackweek/ocssw_processing.ipynb
+        - file: presentations/hackweek/earthdata_cloud_access
+          title: Earthdata Cloud
+        - file: presentations/hackweek/satdata_visualization
+          title: Data Visualization
+        - file: presentations/hackweek/satellite_insitu_matchups
+          title: Matchups
+        - file: presentations/hackweek/ocssw_processing
           title: OCSSW Processing
+        # - file: presentations/hackweek/dask_gridding
+        #   title: Compute with Dask
+        # - file: presentations/hackweek/ml_cloud_mask
+        #   title: Machine Learning
 - caption: Projects
   chapters:
     - file: projects/list_of_projects
