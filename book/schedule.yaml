@@ -7,7 +7,7 @@ tabs:
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
   - title: Warm-up
-    description: Welcome, introductions, housekeeping
+    description: Welcome, Introductions, & Housekeeping
     time: 8:30 - 9:00
     leads:
     - Anna Windle
@@ -61,7 +61,7 @@ tabs:
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
   - title: Warm-up
-    description: Announcements, Group checkins
+    description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
     description: OCI Oceans
@@ -79,12 +79,12 @@ tabs:
     description: Lunch @ True Grits
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Multidimensional data visualization
+    description: Satellite Data Visualization
     time: 13:00 - 13:45
     leads:
     - Carina Poulin
   - title: Coding Tutorial 2
-    description: Matchups of in situ data with satellite data
+    description: Matchups of in-situ Data with Watellite Data
     time: 14:00 - 14:45
     leads:
     - Anna Windle 
@@ -99,7 +99,7 @@ tabs:
     description: Dinner @ True Grits
     time: 17:00 - 18:00
   - title: Evening Activity
-    description: Fireside chat with NASA program managers  
+    description: Fireside Chat with NASA Program Managers  
     time: 18:00 - 
 - title: Day 3
   date: Tuesday 06 August
@@ -108,7 +108,7 @@ tabs:
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
   - title: Warm-up
-    description: Announcements, Group checkins
+    description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
     description: OCI Atmospheres
@@ -131,7 +131,7 @@ tabs:
     leads:
     - Eli Holmes
   - title: Coding Tutorial 2
-    description: Using the SeaDAS command line tools (OCSSW)
+    description: Using the SeaDAS Command Line Tools (OCSSW)
     time: 14:00 - 14:45
     leads:
     - Carina Poulin
@@ -151,7 +151,7 @@ tabs:
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
   - title: Warm up
-    description: Announcements, Group checkins
+    description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
     description: PACE Polarimetry
@@ -196,7 +196,7 @@ tabs:
     description: Breakfast @ True Grits
     time: 7:30 - 8:30
   - title: Warm up
-    description: Announcements, Group checkins
+    description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
     description: Earth System Modeling and Assimilation
