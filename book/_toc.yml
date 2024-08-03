@@ -21,6 +21,8 @@ parts:
     - file: presentations/lectures
     - file: presentations/tutorials
       sections:
+        - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
+          title: CryoCloud Overview
         - file: presentations/hackweek/earthdata_cloud_access
           title: Earthdata Cloud
         - file: presentations/hackweek/satdata_visualization
