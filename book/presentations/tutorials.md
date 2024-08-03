@@ -11,8 +11,8 @@ time you log in.
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides] | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cryo-nb] | {fab}`youtube;sd-text-light` |
-| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`eye;sd-text-primary`](./hackweek/earthdata_cloud_access.ipynb) [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
+| Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides] | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cc-dl] | {fab}`youtube;sd-text-light` |
+| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | {fab}`youtube;sd-text-light` |
 | Satellite Data Visualization                      | {fas}`eye;sd-text-light`                | [{fas}`eye;sd-text-primary`](./hackweek/satdata_visualization.ipynb)  [{fas}`download;sd-text-primary`][viz-nb] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light`                | [{fas}`eye;sd-text-primary`](./hackweek/satellite_insitu_matchups.ipynb)  [{fas}`download;sd-text-primary`][insitu-nb] | {fab}`youtube;sd-text-light` |
 | Reproductible Research: Collaboration via GitHub  | {fas}`eye;sd-text-light`                |                                | {fab}`youtube;sd-text-light` |
@@ -21,12 +21,18 @@ time you log in.
 | Machine Learning with Satellite Data              | {fas}`eye;sd-text-light`                | [{fas}`eye;sd-text-primary`](./hackweek/ml_cloud_mask.ipynb) [{fas}`download;sd-text-primary`][ml-nb] | {fab}`youtube;sd-text-light` |
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light`                |  {fas}`eye;sd-text-light` {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 
-[cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
-[cc-nb]: hackweek/earthdata_cloud_access
-[cc-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
 
+[cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
 [ed-slides]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
-[ed-nb]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
+
+[cc-nb]: hackweek/cryocloud_overview/cryocloud_demo
+[ed-nb]: hackweek/earthdata_cloud_access
+
+[cc-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
+[ed-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
+
+
+
 [viz-nb]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
 [ocssw-nb]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
 [ml-nb]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ml_cloud_mask.ipynb
