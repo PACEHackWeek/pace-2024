@@ -35,6 +35,8 @@ parts:
         #   title: Compute with Dask
         - file: presentations/hackweek/ml_cloud_mask
           title: Machine Learning
+        - file: presentations/hackweek/math
+          title: Math
 - caption: Projects
   chapters:
     - file: projects/index
