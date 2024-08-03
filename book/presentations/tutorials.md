@@ -25,10 +25,10 @@ time you log in.
 [cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
 [ed-slides]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
 
-[cc-nb]: hackweek/cryocloud_overview/cryocloud_demo
-[ed-nb]: hackweek/earthdata_cloud_access
+[cc-nb]: ./hackweek/cryocloud_overview/cryocloud_demo
+[ed-nb]: ./hackweek/earthdata_cloud_access
 
-[cc-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
+[cc-dl]: /_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
 [ed-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
 
 
