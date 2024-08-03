@@ -15,11 +15,14 @@ time you log in.
 | Orientation to Earthdata Cloud Access  | [{fas}`eye;sd-text-primary`][ed-slides] | [{fas}`eye;sd-text-primary`](./hackweek/earthdata_cloud_access.ipynb) [{fas}`download;sd-text-primary`][ed-nb] | {fab}`youtube;sd-text-light` |
 | Satellite Data Visualization  | {fas}`eye;sd-text-light` | [{fas}`eye;sd-text-primary`](./hackweek/satdata_visualization.ipynb)  [{fas}`download;sd-text-primary`][viz-nb] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
-| Using the SeaDAS Command Line Tools (OCSSW)  | {fas}`eye;sd-text-light` | [{fas}`eye;sd-text-primary`](./hackweek/ocssw_processing.ipynb)  [{fas}`download;sd-text-primary`][ocssw-nb] | {fab}`youtube;sd-text-light` |
+| Reproductible Research: Collaboration via GitHub  | {fas}`eye;sd-text-light` |                                | {fab}`youtube;sd-text-light` |
+| Using the SeaDAS Command Line Tools (OCSSW)       | {fas}`eye;sd-text-light` | [{fas}`eye;sd-text-primary`](./hackweek/ocssw_processing.ipynb)  [{fas}`download;sd-text-primary`][ocssw-nb] | {fab}`youtube;sd-text-light` |
 | Parallel and Larger-than-Memory Computing         |  |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Machine Learning with Satellite Data              | {fas}`eye;sd-text-light` | {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light` |  {fas}`download;sd-text-light` | {fab}`youtube;sd-text-light` |
 
+[cc-slides]:
+[cc-nb]: hackweek/earthdata_cloud_access.ipynb
 [ed-slides]:https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
 [ed-nb]:https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
 [viz-nb]:https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
