@@ -41,7 +41,6 @@ If you do not already have a GitHub account, then navigate to [GitHub](https://g
 You will need to answer a few required questions in the following dialogs. Be sure to save your username 
 and password somewhere for use during the hackweek.
 
-(accessing-jupyterhub)=
 ### CryoCloud JupyterHub
 
 We will be using a web application called a [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) for the hackweek. 
@@ -51,16 +50,17 @@ Please follow these instructions which will guide you through gaining access to 
 
 1. Fill out this short [Getting Started Survey](https://forms.gle/d8oP1gp9YikS2ixM8) to provide the required credentials and information to get you on the hub. 
 
-
 2. A day or two after registering, you will receive an invite to the CyroCloudUsers team within the CryoCloud organization on GitHub. This will be an email from GitHub at the email you have linked to your GitHub profile. ***Please accept this invitation within 7 days or it will become invalid.*** Your membership on that GitHub team provides you with access to the CryoCloud. You will be invited to the CryoCloud Slack at the same time.
-
 
 3. Navigate to the [CryoCloud JupyterHub](https://hub.cryointhecloud.com/) to make sure it works for you. You will need your GitHub username and password to sign on. 
 
-
 It can take several minutes for new servers to launch on the cloud. Once things are spun up, you will see your very own instance of a JupyterLab environment. 
 
-We will be using a Docker image that contains everything we will need for the hackweek. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: quay.io/pacehackweek/pace-2024:latest into the Custom image field.
+During the PACE Hackweek, you will see the "PACE Hackweek 2024" option on the "Server Options" page after logging in.
+
+![server_options](../img/server_options.png)
+
+After the Hackweek, that short-cut will be removed. You can continue using the same Docker image if you enter it manually. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: `quay.io/pacehackweek/pace-2024:latest` into the "Custom image" field.
 
 ![Docker_image](../img/Docker_image_instructions.png)
 
