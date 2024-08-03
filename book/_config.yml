@@ -26,6 +26,7 @@ parse:
     - linkify
     - substitution
     - colon_fence
+    - amsmath
     # Extras
     - html_image
 
