@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: PACE Hackweek 2024
-author: content NASA/GSFC, template eScience Institute/UW
+author: content OCB, template UW/eScience Institute
 logo: logo.png
 only_build_toc_files: false
 
@@ -15,11 +15,11 @@ parse:
     github_org_url: "https://github.com/PACEHackWeek"
     book_repo: "pace-2024"
     website_url: "https://PACEHackWeek.github.io/pace-2024"
-    jupyterhub_url: "https://hub.cryointhecloud.com/"
-    slack_workspace_url: "https://cryospherecloud.slack.com/"
+    jupyterhub_url: "https://hub.cryointhecloud.com"
+    slack_workspace_url: "https://cryospherecloud.slack.com"
     contact_email: "anna.windledipaola@nasa.gov"
-    anon_reporting_url: "https://INSERT_FORM_LINK"
-    project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
+    anon_reporting_url: "https://www.us-ocb.org/about/ocb-program-code-of-conduct"
+    project_spreadsheet_url: "https://docs.google.com/spreadsheets/d/17QjyUFOsBxRdgD38F24PfZKMtgup5rspUO6dNSGQS2c"
   myst_enable_extensions:
     # Defaults
     - dollarmath
@@ -46,7 +46,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/PACEHackWeek/pace-2024 # Online location of your book
+  url: "https://github.com/PACEHackWeek/pace-2024" # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
@@ -68,5 +68,5 @@ html:
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
-  favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
+  favicon: "https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico"
   # google_analytics_id: G-XXXXXXXXX
