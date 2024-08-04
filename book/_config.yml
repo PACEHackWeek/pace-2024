@@ -60,7 +60,7 @@ sphinx:
       .ipynb:
         - nbformat.reads
         - as_version: 4
-        - True
+        - false
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
