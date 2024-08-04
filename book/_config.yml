@@ -60,7 +60,7 @@ sphinx:
       .ipynb:
         - nbformat.reads
         - as_version: 4
-        - True
+        - false # setting to `true` breaks math for some reason, `false` uses MyST instead of Commmonmark
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
