@@ -13,7 +13,7 @@ time you log in.
 | :---- | :----: | :------: | :-------: |
 | Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides]      | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cc-dl] | {fab}`youtube;sd-text-light` |
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | {fab}`youtube;sd-text-light` |
-| Satellite Data Visualization                      | [{fas}`download;sd-text-primary`][dv-slides] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | {fab}`youtube;sd-text-light` |
+| Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view] [{fas}`download;sd-text-primary`][dv-slides-dl] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light`                     | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | {fab}`youtube;sd-text-light` |
 | Reproductible Research: Collaboration via GitHub  | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
@@ -24,7 +24,8 @@ time you log in.
 
 [cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
 [ed-slides]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
-[dv-slides]: https://drive.usercontent.google.com/download?id=1Tqt1hPPDNwD7iJGA2p594ahsuVGd29lM&export=download&authuser=0
+[dv-slides-dl]: https://drive.usercontent.google.com/download?id=1Tqt1hPPDNwD7iJGA2p594ahsuVGd29lM&export=download&authuser=0
+[dv-slides-view]: https://docs.google.com/presentation/d/1gt54_AHbAn2I_kaSmySBnlhcv33Ydn7YpxzUkdwNhUc/present?usp=sharing
 [cl-slides]: https://drive.usercontent.google.com/download?id=1B3Ri6isdGgmrV0A2BHBN-vGoON8pHmRI&export=download&authuser=0
 
 [cc-nb]: ./hackweek/cryocloud_overview/CryoCloud_demo

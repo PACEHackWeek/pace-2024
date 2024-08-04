@@ -2,9 +2,9 @@
 
 ## Wireless
 
-* WiFi: UMBC
-* Username: TBD
-* Password: TBD
+* WiFi: UMBC Visitor
+* Username: not needed
+* Password: not needed
 
 ## Location
 
