@@ -9,7 +9,7 @@ and recordings will be linked from this page as they become available.
 | PACE Mission Overview                        | [{fas}`eye;sd-text-primary`][pace-ln] [{fas}`download;sd-text-primary`][pace-dl]     | {fab}`youtube;sd-text-light` |
 | Best Practices for Collaborative Development | [{fas}`eye;sd-text-primary`][collab-ln] [{fas}`download;sd-text-primary`][collab-dl] | {fab}`youtube;sd-text-light` |
 | OCI Oceans                                   | [{fas}`eye;sd-text-primary`][oc-ln] [{fas}`download;sd-text-primary`][oc-dl]         | {fab}`youtube;sd-text-light` |
-| OCI Atmospheres                              | {fas}`eye;sd-text-light`                                                             | {fab}`youtube;sd-text-light` |
+| OCI Atmospheres                              | [{fas}`eye;sd-text-primary`][atm-ln] [{fas}`download;sd-text-primary`][atm-dl]       | {fab}`youtube;sd-text-light` |
 | HARP2/SPEXone Polarimetry                    | {fas}`eye;sd-text-light`                                                             | {fab}`youtube;sd-text-light` |
 | Earth System Modeling and Assimilation       | {fas}`eye;sd-text-light`                                                             | {fab}`youtube;sd-text-light` |
 
@@ -20,3 +20,5 @@ and recordings will be linked from this page as they become available.
 [collab-dl]: https://drive.usercontent.google.com/download?id=1AE5ETm5qLn6szpClIU_mJkYM_w8uopRK&export=download&authuser=0
 [oc-ln]: https://docs.google.com/presentation/d/1-qNHvlzfiU9iNtkAZ7Bfip6BdtYfbmMGIKAx2ZL3DnQ/present?usp=sharing
 [oc-dl]: https://drive.usercontent.google.com/download?id=1qBh-4wLcawyM-o2klC4QlE082vFNJkwz&export=download&authuser=0
+[atm-ln]: https://docs.google.com/presentation/d/1wOH5AvrWl-pEgG6_Uyq3bNliqYQEkkb9gCI_zbSjULE/present?usp=sharing
+[atm-dl]: https://drive.usercontent.google.com/download?id=1uoLCmTtpYjDwXGjUWKMveMHpyJH1joMK&export=download&authuser=0
