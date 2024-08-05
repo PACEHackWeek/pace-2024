@@ -36,7 +36,7 @@ OR
 4. A link to a netlify preview will appear. Check to ensure that it looks good and make any necessary changes.
 5. Once the PR is reviewed by another team member, it can be merged.
 
-### Template curtesy of (by permission) eScience University of Washington
+### Template courtesy of (by permission) eScience University of Washington
 
 This is a clone of the eScience template repository designed to streamline creating two linked websites for a [UW eScience Hackweek](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html).
 

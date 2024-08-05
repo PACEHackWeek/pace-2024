@@ -8,7 +8,7 @@ Find the dynamic version of this table, where your input is required, on {{ '[Go
 
 | Project ID | Short Description |
 |:-----------|:------------------|
-|1  | develop regionally tuned total suspended solids algorithim using OCI and GLORIA dataset    |
+|1  | develop regionally tuned total suspended solids algorithm using OCI and GLORIA dataset    |
 |2  | synthesize OCI oxygen-A band and MAP products for coastal atmospheric correction           |
 |3  | use in-situ CDOM, DOC, Rrs data to explore using spectral slopes in UV for DOC estimation  |
 |4  | explore microplastic algorithm from combined IOPs and DoLP                                 |

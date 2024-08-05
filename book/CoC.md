@@ -32,7 +32,7 @@ Harassment and other code of conduct violations reduce the value of the event fo
 
 If you feel comfortable contacting someone associated with our event, you may speak with one of the hackweek mentors in person, or send an e-mail to anna.windledipaola@nasa.gov. 
 
-Additionaly, you can:
+Additionally, you can:
 
 * Email ocb_news@whoi.edu - this email goes to three Ocean Carbon and Biogeochemistry (OCB) project office staff members.
 * Submit an anonoymous incident report to OCB: {{ '[link]({url})'.format(url=anon_reporting_url) }}
