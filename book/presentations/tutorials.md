@@ -15,6 +15,7 @@ time you log in.
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | {fab}`youtube;sd-text-light` |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view] [{fas}`download;sd-text-primary`][dv-slides-dl] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      | {fas}`eye;sd-text-light`                     | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | {fab}`youtube;sd-text-light` |
+| Matchups of in-situ Data With Satellite Data (ThoMas) | {fas}`eye;sd-text-light`                     | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | {fab}`youtube;sd-text-light` |
 | Reproductible Research: Collaboration via GitHub  | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
 | Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` {fas}`download;sd-text-light`                       | {fab}`youtube;sd-text-light` |
@@ -32,6 +33,7 @@ time you log in.
 [ed-nb]: ./hackweek/earthdata_cloud_access
 [dv-nb]: ./hackweek/satdata_visualization
 [mu-nb]: ./hackweek/satellite_insitu_matchups
+[mut-nb]: ./hackweek/satellite_insitu_matchups_thomas
 [cl-nb]: ./hackweek/ocssw_processing
 [ml-nb]: ./hackweek/ml_cloud_mask
 
@@ -39,5 +41,6 @@ time you log in.
 [ed-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
 [dv-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
 [mu-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups.ipynb
+[mut-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups_thomas.ipynb
 [cl-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
 [ml-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ml_cloud_mask.ipynb
