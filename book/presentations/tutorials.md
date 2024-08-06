@@ -19,7 +19,7 @@ time you log in.
 | Reproductible Research: Collaboration via GitHub  | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
 | Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` {fas}`download;sd-text-light`                       | {fab}`youtube;sd-text-light` |
-| Machine Learning with Satellite Data              | {fas}`eye;sd-text-light`                     | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | {fab}`youtube;sd-text-light` |
+| Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | {fab}`youtube;sd-text-light` |
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
 
 
@@ -29,7 +29,8 @@ time you log in.
 [dv-slides-view]: https://docs.google.com/presentation/d/1gt54_AHbAn2I_kaSmySBnlhcv33Ydn7YpxzUkdwNhUc/present?usp=sharing
 [cl-slides]: https://drive.usercontent.google.com/download?id=1B3Ri6isdGgmrV0A2BHBN-vGoON8pHmRI&export=download&authuser=0
 [mut-slides-dl]: https://drive.usercontent.google.com/download?id=1-2nWGGxBWGhtMuEM02GqzfzakR8EAXXO&export=download&authuser=0
-[mut-slides-view]: https://docs.google.com/presentation/d/1qlAeo7igENAAERS8tU3tduWwNoAtsUDFYt9Zu1figq4/present?usp=sharing
+[mut-slides-view]: https://docs.google.com/presentation/d/1qlAeo7igENAAERS8tU3tduWwNoAtsUDFYt9Zu1figq4/present
+[ml-slides-view]: https://docs.google.com/presentation/d/1AI_TeCet1nulDEKjs5ZdK2B6luAPG9Mwnse_KOQZLws/present
 
 [cc-nb]: ./hackweek/cryocloud_overview/CryoCloud_demo
 [ed-nb]: ./hackweek/earthdata_cloud_access
