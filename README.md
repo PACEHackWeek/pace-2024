@@ -4,6 +4,10 @@ This the JupyterBook content for the PACE Hackweek 2024.
 
 ![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
 
+## Users
+
+This repo is the source for our website: https://pacehackweek.github.io/pace-2024/. Go check it out!
+
 ## Developers
 
 ### New or updated tutorials
