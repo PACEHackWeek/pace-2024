@@ -29,6 +29,8 @@ parts:
           title: Data Visualization
         - file: presentations/hackweek/satellite_insitu_matchups
           title: In-situ Matchups
+        - file: presentations/hackweek/satellite_insitu_matchups_thomas
+          title: ThoMas
         - file: presentations/hackweek/ocssw_processing
           title: OCSSW Processing
         # - file: presentations/hackweek/dask_gridding
