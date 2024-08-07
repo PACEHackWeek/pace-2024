@@ -18,7 +18,7 @@ time you log in.
 | Matchups of in-situ Data With Satellite Data (ThoMas) | [{fas}`eye;sd-text-primary`][mut-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | {fab}`youtube;sd-text-light` |
 | Collaboration with Git and GitHub  | [{fas}`eye;sd-text-primary`][git-slides]                     |                                                                              | {fab}`youtube;sd-text-light` |
 | Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
-| Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` {fas}`download;sd-text-light`                       | {fab}`youtube;sd-text-light` |
+| Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][da-dl]            | {fab}`youtube;sd-text-light` |
 | Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | {fab}`youtube;sd-text-light` |
 | Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
 
@@ -47,4 +47,5 @@ time you log in.
 [mu-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups.ipynb
 [mut-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups_thomas.ipynb
 [cl-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
+[da-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/dask_gridding.ipynb
 [ml-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ml_cloud_mask.ipynb
