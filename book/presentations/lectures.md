@@ -10,8 +10,8 @@ and recordings will be linked from this page as they become available.
 | Best Practices for Collaborative Development | [{fas}`eye;sd-text-primary`][collab-ln] [{fas}`download;sd-text-primary`][collab-dl] | {fab}`youtube;sd-text-light` |
 | OCI Oceans                                   | [{fas}`eye;sd-text-primary`][oc-ln] [{fas}`download;sd-text-primary`][oc-dl]         | {fab}`youtube;sd-text-light` |
 | OCI Atmospheres                              | [{fas}`eye;sd-text-primary`][atm-ln] [{fas}`download;sd-text-primary`][atm-dl]       | {fab}`youtube;sd-text-light` |
-| HARP2/SPEXone Polarimetry                    | {fas}`eye;sd-text-light`                                                             | {fab}`youtube;sd-text-light` |
-| Earth System Modeling and Assimilation       | {fas}`eye;sd-text-light`                                                             | {fab}`youtube;sd-text-light` |
+| HARP2/SPEXone Polarimetry                    | [{fas}`download;sd-text-primary`][map-dl]                                            | {fab}`youtube;sd-text-light` |
+| Earth System Modeling and Assimilation       | [{fas}`download;sd-text-primary`][esm-dl]                                            | {fab}`youtube;sd-text-light` |
 
 [welcome]: https://docs.google.com/presentation/d/1BZ1t-3GsQ8d6ZeMfittVVJcwt4CPEUOAIeQgCfQTWcs/present?usp=sharing
 [pace-ln]: https://drive.usercontent.google.com/download?id=19luv1goUJWjQ0VEF6brp9_I19BMs28EF&export=download&authuser=0
@@ -22,3 +22,5 @@ and recordings will be linked from this page as they become available.
 [oc-dl]: https://drive.usercontent.google.com/download?id=1qBh-4wLcawyM-o2klC4QlE082vFNJkwz&export=download&authuser=0
 [atm-ln]: https://docs.google.com/presentation/d/1wOH5AvrWl-pEgG6_Uyq3bNliqYQEkkb9gCI_zbSjULE/present?usp=sharing
 [atm-dl]: https://drive.usercontent.google.com/download?id=1uoLCmTtpYjDwXGjUWKMveMHpyJH1joMK&export=download&authuser=0
+[map-dl]: https://drive.usercontent.google.com/download?id=1NRHvmG9o3T5xSLPvB5FByiI-P1hSyGNT&export=download&authuser=0
+[esm-dl]: https://drive.usercontent.google.com/download?id=1POYwT8C_glrOB0_w-y1lxhkFVAj_hJHG&export=download&authuser=0
