@@ -20,7 +20,7 @@ time you log in.
 | Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
 | Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][da-dl]            | {fab}`youtube;sd-text-light` |
 | Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | {fab}`youtube;sd-text-light` |
-| Environments and Containers for Reusable Projects | {fas}`eye;sd-text-light`                     |                                                                              | {fab}`youtube;sd-text-light` |
+| Environments and Containers for Reusable Projects | [{fas}`eye;sd-text-primary`][re-slides-view] |                                                                              | {fab}`youtube;sd-text-light` |
 
 
 [cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
@@ -32,6 +32,7 @@ time you log in.
 [mut-slides-dl]: https://drive.usercontent.google.com/download?id=1-2nWGGxBWGhtMuEM02GqzfzakR8EAXXO&export=download&authuser=0
 [mut-slides-view]: https://docs.google.com/presentation/d/1qlAeo7igENAAERS8tU3tduWwNoAtsUDFYt9Zu1figq4/present
 [ml-slides-view]: https://docs.google.com/presentation/d/1AI_TeCet1nulDEKjs5ZdK2B6luAPG9Mwnse_KOQZLws/present
+[re-slides-view]: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
 
 [cc-nb]: ./hackweek/cryocloud_overview/CryoCloud_demo
 [ed-nb]: ./hackweek/earthdata_cloud_access
