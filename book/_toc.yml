@@ -37,6 +37,8 @@ parts:
           title: Compute with Dask
         - file: presentations/hackweek/ml_cloud_mask
           title: Machine Learning
+        - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
+          title: Machine Learning
 - caption: Projects
   chapters:
     - file: projects/index
