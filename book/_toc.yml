@@ -31,6 +31,8 @@ parts:
           title: In-situ Matchups
         - file: presentations/hackweek/satellite_insitu_matchups_thomas
           title: ThoMas
+        - url: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
+          title: Code Collaboration
         - file: presentations/hackweek/ocssw_processing
           title: OCSSW Processing
         - file: presentations/hackweek/dask_gridding
