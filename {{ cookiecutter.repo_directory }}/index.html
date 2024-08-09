@@ -125,7 +125,7 @@
                 {%- for link in cookiecutter.banner.links %}
                 <a class="btn {{ link.style }} btn-lg m-2"
                    href="{{ link.url }}"
-                   {{ 'target="_blank"' if link.new_window == 'true' else '' }}
+                   {{ 'target="_blank"' if link.new_window else '' }}
                 >
                 {{ link.title }}
                 </a>
