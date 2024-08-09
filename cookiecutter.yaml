@@ -14,6 +14,15 @@ banner:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
+    style: btn-primary
+  - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
+    title: Feedback Survey
+    new_window: true
+    style: btn-success
+  - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
+    title: Demographic Survey
+    new_window: true
+    style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-04T08:30:00-07:00"
