@@ -22,7 +22,7 @@ banner:
   - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
     title: Demographic Survey
     new_window: true
-    style: btn-info
+    style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-04T08:30:00-07:00"
