@@ -16,7 +16,7 @@ banner:
     new_window: false
     style: btn-primary
   - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
-    title: Feedback Survey
+    title: Feedback
     new_window: true
     style: btn-success
   - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
