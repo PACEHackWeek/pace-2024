@@ -54,11 +54,11 @@ repository:
 bibtex_bibfiles:
   - references.bib
 sphinx:
+  extra_extensions:
+    - sphinxcontrib.mermaid
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
     nb_merge_streams: true # stdout lines combined in output
-    extra_extensions:
-      - sphinxcontrib.mermaid
     nb_custom_formats:
       .ipynb:
         - nbformat.reads
