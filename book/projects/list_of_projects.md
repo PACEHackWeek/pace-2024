@@ -6,25 +6,22 @@ will change. We are excited to find out what you'll do!
 
 Find the dynamic version of this table, where your input is required, on {{ '[Google Drive]({url})'.format(url=project_spreadsheet_url) }}.
 
-| Project ID | Short Description |
-|:-----------|:------------------|
-|1  | develop regionally tuned total suspended solids algorithm using OCI and GLORIA dataset    |
-|2  | synthesize OCI oxygen-A band and MAP products for coastal atmospheric correction           |
-|3  | use in-situ CDOM, DOC, Rrs data to explore using spectral slopes in UV for DOC estimation  |
-|4  | explore microplastic algorithm from combined IOPs and DoLP                                 |
-|5  | compare hyperspectral Kd algorithms to hyperspectral floats                                |
-|6  | compare fluorescence derived chl-a from floats to OCI estimates                            |
-|7  | compare PCC, or some stand-in like AVW, in and around eddies mapped by SWOT                |
-|8  | follow water mass IOPs over time from tracking of long-lived eddies                        |
-|9  | validate chl-a using in-situ observations from Chesapeake Bay and relate to know SAV beds  |
-|10 | search for potential dust aerosol deposition from MAPs and relationship to chl-a           |
-|11 | estimate AOD in smoke effected areas identified in GOES-16 imagery                         |
-|12 | compare bio-optical signals of BGC-ARGO floats to PCC                                      |
-|14 | phytoplankton biomass variation with environmental factors in Lake Erie                    |
-|15 | relate biome boundaries defined from physical variables and chl-a to any metric of PCC     |
-|16 | use in-situ PCC data to train algorithm with hyperspectral Rrs inputs to differentiate PCC |
-|17 | multi-angle polarimetry comparison to vertical profiles from airborne campaigns            |
-|18 | extreme event signatures in chl-a and aerosol data in coastal waters of Brazil             |
-|19 | associate freshwater OC to costal OC, possibly merging OCI with Landsat/Sentinel           |
-|20 | hunt for accessory pigments (chl-d, chl-f) and phytoplankton functional types from space   |
-|21 | distinguish dominant taxa of HABs off Rio de Janiero using IOPs and DoLP                   |
+| Name | Title | Repo |
+|:-----|:------|:-----|
+| SLOPES | Space Looking Organic Pace Estimates Survey | [alana-menendez/SLOPES] |
+| OCEANOMALIES | Optical Characterization and Evaluation of Anomalous Notable Observations in Marine and Aquatic Light Environments from Satellite | [yfipml/oceanomalies] |
+| PhytoFuego | Assess the impact of 2024 Central American fires on surface ocean properties in the Gulf of Mexico | [nbaetge/phytofuego] |
+| FLARP | Fluorescence Analysis and Research with PACE | |
+| GO-SWACE | SWOT + PACE | [mcornec/GO-SWACE] |
+| From Dust to Bloom | | |
+| PACE-Toolkit | Tools and tutorials for PACE data users | PACEHackWeek/proj_2024_PACEToolkit |
+| KAE-means | Exploring PACE data with k-means clustering | [khyde/kae_means] |
+| F-CLAP | Fresh and Coastal water quality with Landsat And PACE | [emilym012/CLAP] |
+
+[alana-menendez/SLOPES]: https://github.com/alana-menendez/SLOPES
+[yfipml/oceanomalies]: https://github.com/yfipml/oceanomalies
+[nbaetge/phytofuego]: https://github.com/nbaetge/phytofuego
+[mcornec/GO-SWACE]: https://github.com/mcornec/GO-SWACE
+[PACEHackWeek/proj_2024_PACEToolkit]: https://github.com/PACEHackWeek/proj_2024_PACEToolkit
+[khyde/kae_means]: https://github.com/khyde/kae_means
+[emilym012/CLAP]: https://github.com/emilym012/CLAP
