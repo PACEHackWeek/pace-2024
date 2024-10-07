@@ -1,10 +1,9 @@
 # List of Projects
 
-The IDs and descriptions below are a starting point for developing projects to carry out over
-our {{dates}} {{ hackweek }} hackweek. The list will shrink (or grow!) and the descriptions
-will change. We are excited to find out what you'll do!
-
-Find the dynamic version of this table, where your input is required, on {{ '[Google Drive]({url})'.format(url=project_spreadsheet_url) }}.
+Hackweek participants started hashing out project ideas on Day 1, self-formed into groups of 2-6, and
+got to work. By Day 5, each group was ready to present early discoveries from their first glimpses at
+PACE data products. Several groups with code repositories decided to share their work from the start,
+taking the "share-early" approach to open science.
 
 | Name | Title | Repo |
 |:-----|:------|:-----|
