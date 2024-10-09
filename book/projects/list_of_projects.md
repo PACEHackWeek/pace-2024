@@ -10,7 +10,7 @@ taking the "share-early" approach to open science.
 | SLOPES | **S**pace **L**ooking **O**rganic **P**ACE **E**stimates **S**urvey | [alana-menendez/SLOPES] |
 | OCEANOMALIES | **O**ptical **C**haracterization and **E**valuation of **A**nomalous **N**otable **O**bservations in **M**arine and **A**quatic **Li**ght **E**nvironments from **S**atellite | [yfipml/oceanomalies] |
 | PhytoFuego | Assess the impact of 2024 Central American fires on surface ocean properties in the Gulf of Mexico | [nbaetge/phytofuego] |
-| FLARP | **Fl**uorescence **A**nalysis and **R**esearch with **P**ACE | |
+| FLARP | **Fl**uorescence **A**nalysis and **R**esearch with **P**ACE | [jstorylong/FLARP] |
 | GO SWACE | Ar**go**, **SW**OT, P**ACE** | [mcornec/GO-SWACE] |
 | From Dust to Bloom | The hunt for dust aerosol optical thickness and chl-a | |
 | PACE-Toolkit | Tools and tutorials for PACE data users | [PACEHackWeek/proj_2024_PACEToolkit] |
@@ -24,3 +24,4 @@ taking the "share-early" approach to open science.
 [PACEHackWeek/proj_2024_PACEToolkit]: https://github.com/PACEHackWeek/proj_2024_PACEToolkit
 [khyde/kae_means]: https://github.com/khyde/kae_means
 [emilym012/CLAP]: https://github.com/emilym012/CLAP
+[jstorylong/FLARP]: https://github.com/jstorylong/FLARP
