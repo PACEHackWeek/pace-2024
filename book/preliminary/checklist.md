@@ -60,7 +60,7 @@ During the PACE Hackweek, you will see the "PACE Hackweek 2024" option on the "S
 
 ![server_options](../img/server_options.png)
 
-[](#byo-image)After the Hackweek, that short-cut will be removed. You can continue using the same Docker image if you enter it manually. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: `quay.io/pacehackweek/pace-2024:latest` into the "Custom image" field.
+<a href="#byo-image"></a>After the Hackweek, that short-cut will be removed. You can continue using the same Docker image if you enter it manually. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: `quay.io/pacehackweek/pace-2024:latest` into the "Custom image" field.
 
 ![Docker_image](../img/Docker_image_instructions.png)
 
