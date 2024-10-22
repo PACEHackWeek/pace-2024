@@ -13,16 +13,16 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides]      | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cc-dl] | {fab}`youtube;sd-text-light` |
-| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | {fab}`youtube;sd-text-light` |
+| Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides]      | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cc-dl] | [{fab}`youtube;sd-text-primary`][cc-vid] |
+| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view] [{fas}`download;sd-text-primary`][dv-slides-dl] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | {fab}`youtube;sd-text-light` |
 | Matchups of in-situ Data With Satellite Data      |                                              | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | {fab}`youtube;sd-text-light` |
-| Matchups of in-situ Data With Satellite Data (ThoMas) | [{fas}`eye;sd-text-primary`][mut-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | {fab}`youtube;sd-text-light` |
-| Collaboration with Git and GitHub  | [{fas}`eye;sd-text-primary`][git-slides]                     |                                                                              | {fab}`youtube;sd-text-light` |
-| Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | {fab}`youtube;sd-text-light` |
-| Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][da-dl]            | {fab}`youtube;sd-text-light` |
-| Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | {fab}`youtube;sd-text-light` |
-| Environments and Containers for Reusable Projects | [{fas}`eye;sd-text-primary`][re-slides-view] |                                                                              | {fab}`youtube;sd-text-light` |
+| Matchups of in-situ Data With Satellite Data (ThoMas) | [{fas}`eye;sd-text-primary`][mut-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | [{fab}`youtube;sd-text-primary`][mut-vid] |
+| Collaboration with Git and GitHub  | [{fas}`eye;sd-text-primary`][git-slides]                     |                                                                              | [{fab}`youtube;sd-text-primary`][git-vid] |
+| Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | [{fab}`youtube;sd-text-primary`][cl-vid] |
+| Parallel and Larger-than-Memory Computing         |                                              | {fas}`eye;sd-text-light` [{fas}`download;sd-text-primary`][da-dl]            | [{fab}`youtube;sd-text-primary`][da-vid] |
+| Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
+| Environments and Containers for Reusable Projects | [{fas}`eye;sd-text-primary`][re-slides-view] |                                                                              | [{fab}`youtube;sd-text-primary`][re-vid] |
 
 
 [cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
@@ -52,3 +52,15 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [cl-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
 [da-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/dask_gridding.ipynb
 [ml-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ml_cloud_mask.ipynb
+
+[cc-vid]: https://www.youtube.com/watch?v=8NMIfiLQBdY&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=1
+[ed-vid]: https://www.youtube.com/watch?v=zy6QyUPK3nM&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=8
+
+
+[mut-vid]: https://www.youtube.com/watch?v=Nb6WtFkFkRE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=5
+[git-vid]: https://www.youtube.com/watch?v=9LOmUa_U2qc&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=2
+[cl-vid]: https://www.youtube.com/watch?v=Gl51QNSLtZE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=4
+[da-vid]: https://www.youtube.com/watch?v=C8KIwFNVqvo&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=3
+[ml-vid]: https://www.youtube.com/watch?v=Zyv8CO_aVO4&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=6
+[re-vid]: https://www.youtube.com/watch?v=aoJ0cpXo7No&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=7
+
