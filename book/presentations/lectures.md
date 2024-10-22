@@ -5,13 +5,13 @@ and recordings will be linked from this page as they become available.
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
-| Welcome to the PACE Hackweek                 | [{fas}`eye;sd-text-primary`][welcome]                                                | [{fab}`youtube;sd-text-light`][welcome-vid] |
-| PACE Mission Overview                        | [{fas}`eye;sd-text-primary`][pace-ln] [{fas}`download;sd-text-primary`][pace-dl]     | [{fab}`youtube;sd-text-light`][pace-vid] |
-| Best Practices for Collaborative Development | [{fas}`eye;sd-text-primary`][collab-ln] [{fas}`download;sd-text-primary`][collab-dl] | [{fab}`youtube;sd-text-light`][collab-vid] |
-| OCI Oceans                                   | [{fas}`eye;sd-text-primary`][ac-ln] [{fas}`download;sd-text-primary`][ac-dl], [{fas}`eye;sd-text-primary`][oc-ln] [{fas}`download;sd-text-primary`][oc-dl]         | [{fab}`youtube;sd-text-light`][oc-vid] [{fab}`youtube;sd-text-light`][ac-vid] |
-| OCI Atmospheres                              | [{fas}`eye;sd-text-primary`][atm-ln] [{fas}`download;sd-text-primary`][atm-dl]       | [{fab}`youtube;sd-text-light`][atm-vid] [{fab}`youtube;sd-text-light`][atm-vid-2] |
-| HARP2/SPEXone Polarimetry                    | [{fas}`download;sd-text-primary`][map-dl]                                            | [{fab}`youtube;sd-text-light`][map-vid] |
-| Earth System Modeling and Assimilation       | [{fas}`download;sd-text-primary`][esm-dl]                                            | [{fab}`youtube;sd-text-light`][esm-vid] |
+| Welcome to the PACE Hackweek                 | [{fas}`eye;sd-text-primary`][welcome]                                                | [{fab}`youtube;sd-text-primary`][welcome-vid] |
+| PACE Mission Overview                        | [{fas}`eye;sd-text-primary`][pace-ln] [{fas}`download;sd-text-primary`][pace-dl]     | [{fab}`youtube;sd-text-primary`][pace-vid] |
+| Best Practices for Collaborative Development | [{fas}`eye;sd-text-primary`][collab-ln] [{fas}`download;sd-text-primary`][collab-dl] | [{fab}`youtube;sd-text-primary`][collab-vid] |
+| OCI Oceans                                   | [{fas}`eye;sd-text-primary`][ac-ln] [{fas}`download;sd-text-primary`][ac-dl], [{fas}`eye;sd-text-primary`][oc-ln] [{fas}`download;sd-text-primary`][oc-dl]         | [{fab}`youtube;sd-text-primary`][oc-vid] [{fab}`youtube;sd-text-primary`][ac-vid] |
+| OCI Atmospheres                              | [{fas}`eye;sd-text-primary`][atm-ln] [{fas}`download;sd-text-primary`][atm-dl]       | [{fab}`youtube;sd-text-primary`][atm-vid] [{fab}`youtube;sd-text-light`][atm-vid-2] |
+| HARP2/SPEXone Polarimetry                    | [{fas}`download;sd-text-primary`][map-dl]                                            | [{fab}`youtube;sd-text-primary`][map-vid] |
+| Earth System Modeling and Assimilation       | [{fas}`download;sd-text-primary`][esm-dl]                                            | [{fab}`youtube;sd-text-primary`][esm-vid] |
 
 [welcome]: https://docs.google.com/presentation/d/1BZ1t-3GsQ8d6ZeMfittVVJcwt4CPEUOAIeQgCfQTWcs/present?usp=sharing
 [welcome-vid]: https://www.youtube.com/watch?v=PUDU2O4urIU&list=PL2JK_uZ15iZC87MpHUQjN69wWHwt4FlBA&index=1
