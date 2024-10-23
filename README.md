@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983608.svg)](https://doi.org/10.5281/zenodo.13983608)
+
+
 # PACE Hackweek JupyterBook
 
 This the JupyterBook content for the PACE Hackweek 2024.
