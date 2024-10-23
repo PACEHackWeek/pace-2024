@@ -20,7 +20,7 @@ and recordings will be linked from this page as they become available.
 [pace-dl]: https://docs.google.com/presentation/d/16DG_2YUqdeZo4R2OEG4r0PY0dN5P-eZr8xfONv1VMoI/present?usp=sharing
 [collab-ln]: https://docs.google.com/presentation/d/1pfjCAAb3Erv8mApSXZ5YyisSuh7a-gbMAjmmNiCP2j8/present?usp=sharing
 [collab-dl]: https://drive.usercontent.google.com/download?id=1AE5ETm5qLn6szpClIU_mJkYM_w8uopRK&export=download&authuser=0
-[collab-vid]: https://www.youtube.com/watch?v=De7S4kqlL9Y&list=PL2JK_uZ15iZC87MpHUQjN69wWHwt4FlBA&index=9
+[collab-vid]: https://www.youtube.com/watch?v=kvFtrC2VwDA&list=PL2JK_uZ15iZC87MpHUQjN69wWHwt4FlBA&index=2
 [ac-ln]: https://docs.google.com/presentation/d/1ltNavAcC2_qy-kTfoUAFVP4dkxr9TdT0ZVq5DtXuGBI/present?usp=sharing
 [ac-dl]: https://drive.usercontent.google.com/download?id=1l2fx0kv6M3NCFwXKXcpW73h7zA2KfqrV&export=download&authuser=0
 [ac-vid]: https://www.youtube.com/watch?v=laKLRw4c7mE&list=PL2JK_uZ15iZC87MpHUQjN69wWHwt4FlBA&index=3
