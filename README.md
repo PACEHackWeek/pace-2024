@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983609.svg)](https://zenodo.org/badge/latestdoi/13983609)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983608.svg)](https://doi.org/10.5281/zenodo.13983608)
+
 
 # PACE Hackweek JupyterBook
 
