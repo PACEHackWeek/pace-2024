@@ -66,7 +66,7 @@ sphinx:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  announcement: "You are viewing the 2024 hackweek! Switch to the <a href="/">current event</a>."
+  announcement: "You are viewing the 2024 hackweek! Switch to the <a href=\"/\">current event</a>."
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
